@@ -4,6 +4,7 @@ import unittest
 from datetime import date
 from pathlib import Path
 
+from src.build_catalog import CATALOG_FIELDS, build_catalog, write_catalog_csv_atomic
 from src.pull_bcra import FIELDS, load_existing, write_csv_atomic
 
 
@@ -19,6 +20,58 @@ class CsvTests(unittest.TestCase):
             self.assertEqual(latest[7], date(2026, 7, 18))
             with path.open(encoding="utf-8") as handle:
                 self.assertEqual(next(csv.reader(handle)), FIELDS)
+
+    def test_catalog_csv_is_sorted_and_summarized(self):
+        with tempfile.TemporaryDirectory() as directory:
+            source = Path(directory) / "observations.csv"
+            output = Path(directory) / "catalog.csv"
+            rows = [
+                dict.fromkeys(FIELDS, ""),
+                dict.fromkeys(FIELDS, ""),
+                dict.fromkeys(FIELDS, ""),
+            ]
+            rows[0].update(
+                {
+                    "id_variable": "15",
+                    "fecha": "2026-07-22",
+                    "valor": "1",
+                    "descripcion": "Base monetaria",
+                    "categoria": "Principales Variables",
+                    "tipo_serie": "Saldos",
+                    "periodicidad": "D",
+                    "unidad_expresion": "En millones de ARS",
+                    "moneda": "ML",
+                }
+            )
+            rows[1].update(
+                {
+                    "id_variable": "1",
+                    "fecha": "2026-07-22",
+                    "valor": "2",
+                    "descripcion": "Reservas internacionales",
+                    "categoria": "Principales Variables",
+                    "tipo_serie": "Saldos",
+                    "periodicidad": "D",
+                    "unidad_expresion": "En millones de USD",
+                    "moneda": "ME",
+                }
+            )
+            rows[2].update(rows[1])
+            rows[2].update({"fecha": "1996-01-03", "valor": "3"})
+            with source.open("w", encoding="utf-8", newline="") as handle:
+                writer = csv.DictWriter(handle, fieldnames=FIELDS)
+                writer.writeheader()
+                writer.writerows(rows)
+            catalog = build_catalog(source)
+            write_catalog_csv_atomic(output, catalog)
+            with output.open(encoding="utf-8", newline="") as handle:
+                rows = list(csv.DictReader(handle))
+            self.assertEqual(list(rows[0]), CATALOG_FIELDS)
+            self.assertEqual([row["id_variable"] for row in rows], ["1", "15"])
+            self.assertEqual(rows[0]["descripcion"], "Reservas internacionales")
+            self.assertEqual(rows[0]["primer_fecha_informada"], "1996-01-03")
+            self.assertEqual(rows[0]["ultima_fecha_informada"], "2026-07-22")
+            self.assertEqual(rows[0]["ultimo_valor_informado"], "2")
 
 
 if __name__ == "__main__":
