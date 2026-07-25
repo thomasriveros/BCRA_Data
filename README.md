@@ -29,6 +29,7 @@ The `data/subdatasets/` folder contains focused, analysis-ready extracts for sel
 | File | BCRA ID | Variable | Frequency | Unit |
 |---|---:|---|:---:|---|
 | `adelantos_transitorios_bcra_gobierno_nacional.csv` | 1225 | Adelantos transitorios del BCRA al Gobierno Nacional | D | Millions of ARS |
+| `efecto_monetario_adelantos_transitorios_tesoro_nacional.csv` | 49 | Efecto monetario de los adelantos transitorios al tesoro nacional | D | Millions of ARS |
 
 Each subdataset uses the same long-format columns as `data/bcra_monetary.csv`, contains the complete available history for its selected variable, and is refreshed by the daily workflow.
 
