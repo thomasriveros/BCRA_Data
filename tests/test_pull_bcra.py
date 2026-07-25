@@ -5,6 +5,7 @@ from datetime import date
 from pathlib import Path
 
 from src.build_catalog import CATALOG_FIELDS, build_catalog, write_catalog_csv_atomic
+from src.pull_all_variables import normalize_catalog
 from src.pull_bcra import FIELDS, load_existing, write_csv_atomic
 
 
@@ -72,6 +73,32 @@ class CsvTests(unittest.TestCase):
             self.assertEqual(rows[0]["primer_fecha_informada"], "1996-01-03")
             self.assertEqual(rows[0]["ultima_fecha_informada"], "2026-07-22")
             self.assertEqual(rows[0]["ultimo_valor_informado"], "2")
+
+    def test_complete_api_catalog_is_normalized_and_sorted(self):
+        variables = [
+            {
+                "idVariable": 15,
+                "descripcion": "Base monetaria",
+                "categoria": "Principales Variables",
+                "tipoSerie": "Saldos",
+                "periodicidad": "D",
+                "unidadExpresion": "En millones de ARS",
+                "moneda": "ML",
+                "primerFechaInformada": "1990-01-01",
+                "ultFechaInformada": "2026-07-22",
+                "ultValorInformado": 123.45,
+            },
+            {
+                "idVariable": 1,
+                "descripcion": "Reservas internacionales",
+                "categoria": "Principales Variables",
+            },
+        ]
+        rows = normalize_catalog(variables)
+        self.assertEqual([row["id_variable"] for row in rows], ["1", "15"])
+        self.assertEqual(list(rows[0]), CATALOG_FIELDS)
+        self.assertEqual(rows[0]["periodicidad"], "")
+        self.assertEqual(rows[1]["ultimo_valor_informado"], "123.45")
 
 
 if __name__ == "__main__":
