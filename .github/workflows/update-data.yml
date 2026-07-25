@@ -27,14 +27,15 @@ jobs:
           python src/build_catalog.py
           python src/pull_all_variables.py
           python src/pull_bcra.py --all-variables --ids 1225 --output data/subdatasets/adelantos_transitorios_bcra_gobierno_nacional.csv
+          python src/pull_bcra.py --all-variables --ids 49 --output data/subdatasets/efecto_monetario_adelantos_transitorios_tesoro_nacional.csv
       - name: Commit changed data
         run: |
-          if git diff --quiet -- data/bcra_monetary.csv data/bcra_variables.csv data/bcra_all_variables.csv data/subdatasets/adelantos_transitorios_bcra_gobierno_nacional.csv; then
+          if git diff --quiet -- data/bcra_monetary.csv data/bcra_variables.csv data/bcra_all_variables.csv data/subdatasets/adelantos_transitorios_bcra_gobierno_nacional.csv data/subdatasets/efecto_monetario_adelantos_transitorios_tesoro_nacional.csv; then
             echo "No data changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/bcra_monetary.csv data/bcra_variables.csv data/bcra_all_variables.csv data/subdatasets/adelantos_transitorios_bcra_gobierno_nacional.csv
+          git add data/bcra_monetary.csv data/bcra_variables.csv data/bcra_all_variables.csv data/subdatasets/adelantos_transitorios_bcra_gobierno_nacional.csv data/subdatasets/efecto_monetario_adelantos_transitorios_tesoro_nacional.csv
           git commit -m "data: update BCRA monetary series"
           git push
