@@ -22,6 +22,16 @@ This repository downloads the 35 indicators that the Banco Central de la Repúbl
 
 `data/bcra_all_variables.csv` is the complete variable catalog exposed by the BCRA API. It uses the same columns as the compact catalog, with one row for every available monetary variable across all categories. This file is a searchable index; the large historical observation CSV remains intentionally limited to the principal variables.
 
+## Subdatasets
+
+The `data/subdatasets/` folder contains focused, analysis-ready extracts for selected variables:
+
+| File | BCRA ID | Variable | Frequency | Unit |
+|---|---:|---|:---:|---|
+| `adelantos_transitorios_bcra_gobierno_nacional.csv` | 1225 | Adelantos transitorios del BCRA al Gobierno Nacional | D | Millions of ARS |
+
+Each subdataset uses the same long-format columns as `data/bcra_monetary.csv`, contains the complete available history for its selected variable, and is refreshed by the daily workflow.
+
 ## Available principal variables
 
 The default dataset contains the following 35 variables from the BCRA **Principales Variables** category:
