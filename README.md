@@ -20,6 +20,8 @@ This repository downloads the 35 indicators that the Banco Central de la Repúbl
 
 `data/bcra_variables.csv` is the compact variable catalog. It contains one row per available principal variable, including the BCRA ID, description, category, series type, frequency, unit, currency, coverage dates, and latest published value.
 
+`data/bcra_all_variables.csv` is the complete variable catalog exposed by the BCRA API. It uses the same columns as the compact catalog, with one row for every available monetary variable across all categories. This file is a searchable index; the large historical observation CSV remains intentionally limited to the principal variables.
+
 ## Available principal variables
 
 The default dataset contains the following 35 variables from the BCRA **Principales Variables** category:
@@ -62,7 +64,7 @@ The default dataset contains the following 35 variables from the BCRA **Principa
 | 1197 | Tasa de Intereses Moratorios (TIM), CCC art. 768(c) | D |
 | 1198 | Tasa pasiva, Ley 27.802 art. 55(a) | D |
 
-`D` means daily and `M` means monthly. The catalog CSV is the authoritative machine-readable list and is refreshed by the same daily workflow as the observation data.
+`D` means daily and `M` means monthly. `data/bcra_variables.csv` is the authoritative machine-readable list of principal variables. Use `data/bcra_all_variables.csv` to browse every available variable. Both catalogs are refreshed by the same daily workflow as the observation data.
 
 ## Automatic updates
 
@@ -76,6 +78,8 @@ Python 3.11+ is sufficient; there are no third-party dependencies.
 
 ```bash
 python src/pull_bcra.py
+python src/build_catalog.py
+python src/pull_all_variables.py
 ```
 
 To change the scope, pass another official category, choose IDs explicitly, or download the full 1,581-variable catalog:
