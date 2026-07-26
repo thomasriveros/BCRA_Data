@@ -1,36 +1,36 @@
 id_variable,descripcion,categoria,tipo_serie,periodicidad,unidad_expresion,moneda,primer_fecha_informada,ultima_fecha_informada,ultimo_valor_informado
-1,Reservas internacionales,Principales Variables,Saldos,D,En millones de USD,ME,1996-01-03,2026-07-21,48921.0
-4,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2010-06-01,2026-07-23,1510.8
-5,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2002-03-04,2026-07-23,1489.7656
-7,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1999-01-04,2026-07-22,22.0
-8,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2017-01-02,2026-07-22,22.3125
-11,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1999-01-05,2026-07-22,20.54
-12,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1985-08-26,2026-07-22,20.73
-13,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2009-01-02,2026-07-22,25.37
-14,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2010-07-01,2026-07-22,64.18
-15,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-21,45294416.0
-16,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-21,28521908.0
-17,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-21,26302126.0
-18,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML,1984-03-01,2026-07-21,2219782.0
-19,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-21,16772508.0
-21,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML,1999-12-30,2026-07-21,227248043.0
-22,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-21,33102642.0
-23,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-21,76080494.0
-24,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-21,103996457.0
-25,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML,2004-02-01,2026-07-21,20.4
-26,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-04-01,2026-07-21,137660680.0
+1,Reservas internacionales,Principales Variables,Saldos,D,En millones de USD,ME,1996-01-03,2026-07-22,49036.0
+4,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2010-06-01,2026-07-24,1518.86
+5,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2002-03-04,2026-07-24,1494.3744
+7,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1999-01-04,2026-07-23,22.1875
+8,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2017-01-02,2026-07-23,22.4375
+11,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1999-01-05,2026-07-23,20.7
+12,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1985-08-26,2026-07-23,21.07
+13,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2009-01-02,2026-07-23,25.66
+14,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2010-07-01,2026-07-23,66.68
+15,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-22,45839793.0
+16,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-22,28488666.0
+17,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-22,26319061.0
+18,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML,1984-03-01,2026-07-22,2169605.0
+19,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-22,17351127.0
+21,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML,1999-12-30,2026-07-22,227032699.0
+22,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-22,32115183.0
+23,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-22,76028279.0
+24,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-22,105019124.0
+25,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML,2004-02-01,2026-07-22,20.3
+26,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-04-01,2026-07-22,137702393.0
 27,Inflación mensual.,Principales Variables,Variación,M,En porcentaje,ML,1943-03-31,2026-06-30,1.9
 28,Inflación interanual.,Principales Variables,Variación,M,En porcentaje,ML,1944-01-31,2026-06-30,33.5
 29,Mediana de la variación interanual próximos 12 meses del índice de precios al consumidor del relevamiento de expectativas de mercado,Principales Variables,Variación,M,En porcentaje,ML,2004-01-31,2026-06-30,22.3
 30,Coeficiente de estabilización de referencia (base 2.2.02=1),Principales Variables,Índice,D,Índice base 2.2.02=1,ML,2002-02-02,2026-08-15,822.89483810368
 31,Unidad de valor adquisitivo (base 31.3.16=14.05),Principales Variables,Unidad de cuenta,D,En ARS,ML,2016-03-31,2026-08-15,2076.82
 32,Unidad de vivienda (base 31.3.16=14.05),Principales Variables,Unidad de cuenta,D,En ARS,ML,2016-03-31,2026-08-19,1523.63
-35,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2026-07-22,24.35
+35,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2026-07-23,24.58
 40,Índice para Contratos de Locación (base 30.6.20=1),Principales Variables,Índice,D,Índice base 30.6.20=1,ML,2020-07-01,2026-08-16,35.25
-43,Tasa de interés Comunicado P 14.290 (Uso de justicia),Principales Variables,Tasa de interés,D,En porcentaje,ML,1991-04-01,2026-07-24,26358.6096
-44,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2024-10-01,2026-07-22,22.9375
-45,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML,2024-10-01,2026-07-22,25.5
+43,Tasa de interés Comunicado P 14.290 (Uso de justicia),Principales Variables,Tasa de interés,D,En porcentaje,ML,1991-04-01,2026-07-27,26395.1589
+44,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2024-10-01,2026-07-23,22.9375
+45,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML,2024-10-01,2026-07-23,25.5
 1187,Régimen de bandas cambiarias. Límite inferior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2025-04-14,2026-08-31,739.82
 1188,Régimen de bandas cambiarias. Límite superior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2025-04-14,2026-08-31,1879.92
-1197,"Tasa de Intereses Moratorios (TIM)  CCC, art. 768(c)",Principales Variables,Tasa de interés,D,En porcentaje,ML,1993-06-03,2026-07-24,159775.1711
-1198,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML,1993-06-03,2026-07-24,92147.3514
+1197,"Tasa de Intereses Moratorios (TIM)  CCC, art. 768(c)",Principales Variables,Tasa de interés,D,En porcentaje,ML,1993-06-03,2026-07-27,160106.2086
+1198,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML,1993-06-03,2026-07-27,92305.7103
