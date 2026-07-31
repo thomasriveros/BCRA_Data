@@ -1,142 +1,142 @@
 id_variable,descripcion,categoria,tipo_serie,periodicidad,unidad_expresion,moneda,primer_fecha_informada,ultima_fecha_informada,ultimo_valor_informado
-1,Reservas internacionales,Principales Variables,Saldos,D,En millones de USD,ME,1996-01-03,2026-07-27,49164.0
-4,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2010-06-01,2026-07-29,1518.59
-5,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2002-03-04,2026-07-29,1496.3521
-7,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1999-01-04,2026-07-28,22.0
-8,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2017-01-02,2026-07-28,22.3125
-11,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1999-01-05,2026-07-28,21.19
-12,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1985-08-26,2026-07-28,20.74
-13,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2009-01-02,2026-07-28,25.82
-14,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2010-07-01,2026-07-28,62.79
-15,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,46324059.0
-16,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,28575298.0
-17,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,26471748.0
-18,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML,1984-03-01,2026-07-27,2103550.0
-19,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-27,17748761.0
-21,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML,1999-12-30,2026-07-27,230102932.0
-22,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-27,33229246.0
-23,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-27,76178062.0
-24,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-27,106567085.0
-25,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML,2004-02-01,2026-07-27,20.1
-26,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-04-01,2026-07-27,139454462.0
+1,Reservas internacionales,Principales Variables,Saldos,D,En millones de USD,ME,1996-01-03,2026-07-28,48935.0
+4,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2010-06-01,2026-07-30,1512.02
+5,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2002-03-04,2026-07-30,1490.8431
+7,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1999-01-04,2026-07-29,21.25
+8,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2017-01-02,2026-07-29,21.625
+11,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1999-01-05,2026-07-29,20.19
+12,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,1985-08-26,2026-07-29,20.39
+13,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2009-01-02,2026-07-29,25.05
+14,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2010-07-01,2026-07-29,60.57
+15,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,45044437.0
+16,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,28625165.0
+17,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,26463324.0
+18,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML,1984-03-01,2026-07-28,2161841.0
+19,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-28,16419272.0
+21,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML,1999-12-30,2026-07-28,230729542.0
+22,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-28,33579605.0
+23,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-28,76213847.0
+24,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-01-02,2026-07-28,106794300.0
+25,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML,2004-02-01,2026-07-28,20.2
+26,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML,1996-04-01,2026-07-28,140463000.0
 27,Inflación mensual.,Principales Variables,Variación,M,En porcentaje,ML,1943-03-31,2026-06-30,1.9
 28,Inflación interanual.,Principales Variables,Variación,M,En porcentaje,ML,1944-01-31,2026-06-30,33.5
 29,Mediana de la variación interanual próximos 12 meses del índice de precios al consumidor del relevamiento de expectativas de mercado,Principales Variables,Variación,M,En porcentaje,ML,2004-01-31,2026-06-30,22.3
-30,Coeficiente de estabilización de referencia (base 2.2.02=1),Principales Variables,Índice,D,Índice base 2.2.02=1,ML,2002-02-02,2026-07-30,814.93956733242
-31,Unidad de valor adquisitivo (base 31.3.16=14.05),Principales Variables,Unidad de cuenta,D,En ARS,ML,2016-03-31,2026-07-30,2056.74
-32,Unidad de vivienda (base 31.3.16=14.05),Principales Variables,Unidad de cuenta,D,En ARS,ML,2016-03-31,2026-07-30,1504.29
-35,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2026-07-28,24.35
-40,Índice para Contratos de Locación (base 30.6.20=1),Principales Variables,Índice,D,Índice base 30.6.20=1,ML,2020-07-01,2026-07-30,34.98
-43,Tasa de interés Comunicado P 14.290 (Uso de justicia),Principales Variables,Tasa de interés,D,En porcentaje,ML,1991-04-01,2026-07-30,26433.3284
-44,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2024-10-01,2026-07-28,22.875
-45,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML,2024-10-01,2026-07-28,25.42
-46,Total de factores de explicación de la base monetaria,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,274406.0
-47,Efecto monetario de las compras netas de divisas al sector privado y otros ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,515137.5
-48,Efecto monetario de las compras netas de divisas al tesoro nacional ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-49,Efecto monetario de los adelantos transitorios al tesoro nacional,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-50,Efecto monetario de las transferencia de utilidades al tesoro nacional ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-51,Efecto monetario del resto de operaciones con el tesoro nacional,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,-542.6248
-52,Efecto monetario de las operaciones de pases ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-53,Efecto monetario de las LELIQ y NOTALQ ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-54,Efecto monetario de los redescuentos y adelantos ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-55,"Efecto monetario de los intereses, primas y remuneración de cuentas corrientes asociados a op. de pases, LELIQ, NOTALQ, redescuentos y adel. ",Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-56,Efecto monetario de las LEBAC y NOBAC ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-57,Efecto monetario del rescate de cuasimonedas ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-58,Efecto monetario de las operaciones con letras fiscales de liquidez ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-59,Efecto monetario de otras operaciones que explican la variación de la base monetaria ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-24,-240188.8752
-60,Billetes y monedas en poder del público ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,72373.0
-61,Billetes y monedas en entidades financieras ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,-60459.0
-62,Cheques cancelatorios ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-63,Cuentas corrientes en pesos en el BCRA,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,262492.0
-64,Base monetaria,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,274406.0
-65,Cuasimonedas ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-66,Base monetaria más cuasimonedas ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,274406.0
-67,Billetes y monedas en poder del público ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,26419904.0
-68,Billetes y monedas en entidades financieras ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,2069016.0
-69,Cheques cancelatorios ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-70,Cuentas corrientes en pesos en el BCRA ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,17598670.0
-71,Base monetaria,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,46087590.0
-72,Cuasimonedas ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,0.0
-73,Base monetaria más cuasimonedas,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-24,46087590.0
-74,Reservas internacionales (excluidas asignaciones deg 2009),Series.xlsm,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-24,49187.0
-75,"Oro, divisas, colocaciones a plazo y otros activos de reserva",Series.xlsm,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-24,49187.0
-76,Divisas-pase pasivo en dólares con el exterior,Series.xlsm,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-24,0.0
-77,Reservas internacionales ,Series.xlsm,Variación diaria de saldos,D,En millones de USD,ME,2003-01-02,2026-07-24,500.5624
-78,Variación de reservas internacionales por compra de divisas ,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-24,345.0
-79,Variación de reservas internacionales por operaciones con organismos internacionales,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-24,0.0
-80,Variación de reservas internacionales por otras operaciones del sector público ,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-24,-0.0049
-81,Variación de reservas internacionales por efectivo mínimo ,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-24,109.5918
-82,Variación de reservas internacionales por otras operaciones no incluidas en otros rubros ,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-24,45.9755
-83,Asignaciones de DEGS del año 2009,Series.xlsm,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-24,0.0
-84,Tipo de cambio de valuación contable,Series.xlsm,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2003-01-02,2026-07-24,1494.3744
-85,Cuentas corrientes de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,31495556.0
-86,Cajas de ahorro de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,30760497.0
-87,Depósitos a plazo no ajustables por CER/UVAS de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,87008877.946
-88,Depósitos a plazo ajustables por CER/UVAS de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-24,1693623.054
-89,Otros depósitos de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,2768511.0
-90,Cedros con cer de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,0.0
-91,Depósitos en pesos de los sectores público y privados no financieros (incluye cedros),Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,153727065.0
-92,BODEN de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,0.0
-93,Depósitos de los sectores público y privados no financieros (incluye cedro y BODEN),Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,153727065.0
-94,Cuentas corrientes del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,20847717.0
-95,Cajas de ahorro del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,29643815.0
-96,Depósitos a plazo no ajustables por CER/UVAS del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,64857655.946
-97,Depósitos a plazo ajustables por CER/UVAS del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-24,1301362.054
-98,Otros depósitos del sector privado no financiero,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,1817918.0
-99,Cedros con cer del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,0.0
-100,Depósitos del sector privado no financiero (incluye cedros),Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,118468468.0
-101,BODEN del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,0.0
-102,Depósitos del sector privado no financiero (incluye cedro y BODEN),Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,118468468.0
-103,Depósitos  de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ME,2002-12-31,2026-07-24,64821478.3488
-104,Depósitos del sector privado no financiero,Series.xlsm,Saldos,D,En millones de ARS,ME,2002-12-31,2026-07-24,60308467.6608
-105,Depósitos  de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,MEyML,2002-12-31,2026-07-24,218548543.3488
-106,Depósitos del sector privado no financiero,Series.xlsm,Saldos,D,En millones de ARS,MEyML,2002-12-31,2026-07-24,178776935.6608
-107,Depósitos  de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,43377.0
-108,Depósitos del sector privado no financiero,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,40357.0
-109,M2 ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,88675957.0
-110,Préstamos otorgados mediante adelantos en cuenta al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,10966615.0
-111,Préstamos otorgados mediante documentos al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,24719516.0
-112,Préstamos hipotecaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,8144182.0
-113,Préstamos prendaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,6186938.0
-114,Préstamos personales otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,21447373.0
-115,Préstamos mediante tarjeta de créditos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,23016922.0
-116,Otros préstamos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,7089662.0
-117,Préstamos otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-24,101571208.0
-118,Préstamos en cuenta corriente otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,250.0
-119,Préstamos documentaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,18271.0
-120,Préstamos hipotecaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,687.0
-121,Préstamos prendaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,1379.0
-122,Préstamos personales otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,4.0
-123,Préstamos en tarjeta de créditos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,707.0
-124,Otros préstamos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,3315.0
-125,Préstamos otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-24,24613.0
-126,Préstamos otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,ME,2002-12-31,2026-07-24,36781037.1072
-127,Préstamos otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,MEyML,2002-12-31,2026-07-24,138352245.1072
-135,Tasa de interés TAMAR de bancos públicos y privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2024-10-01,2026-07-28,22.6875
-136,Tasa de interés TAMAR de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2024-10-01,2026-07-28,22.875
-137,Tasa de interés TAMAR de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2024-10-01,2026-07-28,25.4186
-138,Tasa de interés BADLAR de bancos públicos y privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-28,21.6875
-139,Tasa de interés BADLAR de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-28,22.0
-140,Tasa de interés BADLAR de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2026-07-28,24.3469
-141,Tasa de interés TM20 de bancos públicos y privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2017-01-02,2026-07-28,22.0625
-142,Tasa de interésTM20 de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2017-01-02,2026-07-28,22.3125
-143,Tasa de interés TM20 de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2026-07-28,24.7287
-144,Tasa de interés de préstamos personales otorgados al sector privado,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2010-07-01,2026-07-28,62.79
-145,"Tasa de interés de adelantos en cuenta corriente, con acuerdo de 1 a 7 días y de 10 millones o más, a empresas del sector privado",Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2009-01-02,2026-07-28,25.82
-146,Tasa de interés de préstamos entre bancos privados (BAIBAR),Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-28,21.19
-147,Préstamos entre bancos privados (BAIBAR),Series.xlsm,Monto,D,En millones de ARS,ML,2003-01-02,2026-07-28,387406.0
-148,Tasa de interés de préstamos entre entidades financieras locales,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-28,20.82
-149,Préstamos entre entidades financieras locales ,Series.xlsm,Monto,D,En millones de ARS,ML,2003-01-02,2026-07-28,558891.0
-150,Tasa de interés por operaciones de pases entre terceros a 1 día,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2008-01-02,2026-07-28,20.35
-151,Operaciones de pases entre terceros a 1 día,Series.xlsm,Monto,D,En millones de ARS,ML,2008-01-02,2026-07-28,1468794.0
-152,Pases pasivos para el BCRA (incluye pases pasivos con fci),Series.xlsm,Saldos,D,En millones de ARS,ML,2004-05-28,2026-07-28,0.0
-153,Pases pasivos para el BCRA con fondos comunes de inversión,Series.xlsm,Saldos,D,En millones de ARS,ML,2014-01-02,2026-07-28,0.0
-154,Pases activos para el BCRA,Series.xlsm,Saldos,D,En millones de ARS,ML,2004-05-28,2026-07-28,0.0
-155,LELIQ y NOTALQ,Series.xlsm,Saldos,D,En millones de ARS,ML,2018-01-11,2026-07-28,0.0
-156,"LEBAC y NOBAC , LEGAR y LEMIN ",Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-28,231943.9236
-157,LEBAC y NOBAC  de entidades financieras ,Series.xlsm,Saldos,D,En millones de ARS,ML,2008-07-04,2026-07-28,0.0
-158,"LEBAC, LEDIV y BOPREAL",Series.xlsm,Saldos,D,En millones de USD,USD,2003-01-02,2026-07-28,5652.99
-159,NOCOM ,Series.xlsm,Saldos,D,En millones de ARS,ML,2018-10-11,2026-07-28,0.0
+30,Coeficiente de estabilización de referencia (base 2.2.02=1),Principales Variables,Índice,D,Índice base 2.2.02=1,ML,2002-02-02,2026-07-31,815.43451086916
+31,Unidad de valor adquisitivo (base 31.3.16=14.05),Principales Variables,Unidad de cuenta,D,En ARS,ML,2016-03-31,2026-07-31,2057.99
+32,Unidad de vivienda (base 31.3.16=14.05),Principales Variables,Unidad de cuenta,D,En ARS,ML,2016-03-31,2026-07-31,1505.25
+35,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2026-07-29,23.44
+40,Índice para Contratos de Locación (base 30.6.20=1),Principales Variables,Índice,D,Índice base 30.6.20=1,ML,2020-07-01,2026-07-31,34.99
+43,Tasa de interés Comunicado P 14.290 (Uso de justicia),Principales Variables,Tasa de interés,D,En porcentaje,ML,1991-04-01,2026-07-31,26446.3254
+44,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML,2024-10-01,2026-07-29,22.375
+45,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML,2024-10-01,2026-07-29,24.81
+46,Total de factores de explicación de la base monetaria,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,236469.0
+47,Efecto monetario de las compras netas de divisas al sector privado y otros ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,40419.0
+48,Efecto monetario de las compras netas de divisas al tesoro nacional ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+49,Efecto monetario de los adelantos transitorios al tesoro nacional,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+50,Efecto monetario de las transferencia de utilidades al tesoro nacional ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+51,Efecto monetario del resto de operaciones con el tesoro nacional,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,-694.2386
+52,Efecto monetario de las operaciones de pases ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+53,Efecto monetario de las LELIQ y NOTALQ ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+54,Efecto monetario de los redescuentos y adelantos ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+55,"Efecto monetario de los intereses, primas y remuneración de cuentas corrientes asociados a op. de pases, LELIQ, NOTALQ, redescuentos y adel. ",Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+56,Efecto monetario de las LEBAC y NOBAC ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+57,Efecto monetario del rescate de cuasimonedas ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+58,Efecto monetario de las operaciones con letras fiscales de liquidez ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+59,Efecto monetario de otras operaciones que explican la variación de la base monetaria ,Series.xlsm,Flujo diario,D,En millones de ARS,ML,2003-01-02,2026-07-27,196744.2386
+60,Billetes y monedas en poder del público ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,52841.0
+61,Billetes y monedas en entidades financieras ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,33537.0
+62,Cheques cancelatorios ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+63,Cuentas corrientes en pesos en el BCRA,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,150091.0
+64,Base monetaria,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,236469.0
+65,Cuasimonedas ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+66,Base monetaria más cuasimonedas ,Series.xlsm,Variación diaria de saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,236469.0
+67,Billetes y monedas en poder del público ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,26472751.0
+68,Billetes y monedas en entidades financieras ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,2102547.0
+69,Cheques cancelatorios ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+70,Cuentas corrientes en pesos en el BCRA ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,17748761.0
+71,Base monetaria,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,46324059.0
+72,Cuasimonedas ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,0.0
+73,Base monetaria más cuasimonedas,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,46324059.0
+74,Reservas internacionales (excluidas asignaciones deg 2009),Series.xlsm,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,49164.0
+75,"Oro, divisas, colocaciones a plazo y otros activos de reserva",Series.xlsm,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,49164.0
+76,Divisas-pase pasivo en dólares con el exterior,Series.xlsm,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,0.0
+77,Reservas internacionales ,Series.xlsm,Variación diaria de saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,-22.8238
+78,Variación de reservas internacionales por compra de divisas ,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-27,27.0
+79,Variación de reservas internacionales por operaciones con organismos internacionales,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-27,0.0
+80,Variación de reservas internacionales por otras operaciones del sector público ,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-27,-8.4277
+81,Variación de reservas internacionales por efectivo mínimo ,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-27,-95.8091
+82,Variación de reservas internacionales por otras operaciones no incluidas en otros rubros ,Series.xlsm,Flujo diario,D,En millones de USD,ME,2003-01-02,2026-07-27,54.413
+83,Asignaciones de DEGS del año 2009,Series.xlsm,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,0.0
+84,Tipo de cambio de valuación contable,Series.xlsm,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2003-01-02,2026-07-27,1498.5117
+85,Cuentas corrientes de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,32944657.0
+86,Cajas de ahorro de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,30380931.0
+87,Depósitos a plazo no ajustables por CER/UVAS de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,86082007.07
+88,Depósitos a plazo ajustables por CER/UVAS de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-27,1677147.93
+89,Otros depósitos de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,2848537.0
+90,Cedros con cer de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,0.0
+91,Depósitos en pesos de los sectores público y privados no financieros (incluye cedros),Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,153933280.0
+92,BODEN de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,0.0
+93,Depósitos de los sectores público y privados no financieros (incluye cedro y BODEN),Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,153933280.0
+94,Cuentas corrientes del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,21787590.0
+95,Cajas de ahorro del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,29178201.0
+96,Depósitos a plazo no ajustables por CER/UVAS del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,64326848.07
+97,Depósitos a plazo ajustables por CER/UVAS del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-27,1289043.93
+98,Otros depósitos del sector privado no financiero,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,1856813.0
+99,Cedros con cer del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,0.0
+100,Depósitos del sector privado no financiero (incluye cedros),Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,118438496.0
+101,BODEN del sector privado no financiero ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,0.0
+102,Depósitos del sector privado no financiero (incluye cedro y BODEN),Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,118438496.0
+103,Depósitos  de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,ME,2002-12-31,2026-07-27,64929013.4493
+104,Depósitos del sector privado no financiero,Series.xlsm,Saldos,D,En millones de ARS,ME,2002-12-31,2026-07-27,60652261.0575
+105,Depósitos  de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de ARS,MEyML,2002-12-31,2026-07-27,218862293.4493
+106,Depósitos del sector privado no financiero,Series.xlsm,Saldos,D,En millones de ARS,MEyML,2002-12-31,2026-07-27,179090757.0575
+107,Depósitos  de los sectores público y privado no financieros,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,43329.0
+108,Depósitos del sector privado no financiero,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,40475.0
+109,M2 ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,89798339.0
+110,Préstamos otorgados mediante adelantos en cuenta al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,10835190.0
+111,Préstamos otorgados mediante documentos al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,24691324.0
+112,Préstamos hipotecaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,8158222.0
+113,Préstamos prendaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,6181349.0
+114,Préstamos personales otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,21486651.0
+115,Préstamos mediante tarjeta de créditos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,23483199.0
+116,Otros préstamos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,7090631.0
+117,Préstamos otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,ML,2002-12-31,2026-07-27,101926566.0
+118,Préstamos en cuenta corriente otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,251.0
+119,Préstamos documentaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,18324.0
+120,Préstamos hipotecaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,686.0
+121,Préstamos prendaríos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,1378.0
+122,Préstamos personales otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,4.0
+123,Préstamos en tarjeta de créditos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,707.0
+124,Otros préstamos otorgados al sector privado,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,3313.0
+125,Préstamos otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de USD,ME,2002-12-31,2026-07-27,24663.0
+126,Préstamos otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,ME,2002-12-31,2026-07-27,36957794.0571
+127,Préstamos otorgados al sector privado ,Series.xlsm,Saldos,D,En millones de ARS,MEyML,2002-12-31,2026-07-27,138884360.0571
+135,Tasa de interés TAMAR de bancos públicos y privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2024-10-01,2026-07-29,22.125
+136,Tasa de interés TAMAR de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2024-10-01,2026-07-29,22.375
+137,Tasa de interés TAMAR de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2024-10-01,2026-07-29,24.8052
+138,Tasa de interés BADLAR de bancos públicos y privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-29,20.9375
+139,Tasa de interés BADLAR de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-29,21.25
+140,Tasa de interés BADLAR de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2026-07-29,23.435
+141,Tasa de interés TM20 de bancos públicos y privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2017-01-02,2026-07-29,21.3125
+142,Tasa de interésTM20 de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2017-01-02,2026-07-29,21.625
+143,Tasa de interés TM20 de bancos privados,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2026-07-29,23.8902
+144,Tasa de interés de préstamos personales otorgados al sector privado,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2010-07-01,2026-07-29,60.57
+145,"Tasa de interés de adelantos en cuenta corriente, con acuerdo de 1 a 7 días y de 10 millones o más, a empresas del sector privado",Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2009-01-02,2026-07-29,25.05
+146,Tasa de interés de préstamos entre bancos privados (BAIBAR),Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-29,20.19
+147,Préstamos entre bancos privados (BAIBAR),Series.xlsm,Monto,D,En millones de ARS,ML,2003-01-02,2026-07-29,217594.0
+148,Tasa de interés de préstamos entre entidades financieras locales,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-29,20.12
+149,Préstamos entre entidades financieras locales ,Series.xlsm,Monto,D,En millones de ARS,ML,2003-01-02,2026-07-29,393171.0
+150,Tasa de interés por operaciones de pases entre terceros a 1 día,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2008-01-02,2026-07-29,20.18
+151,Operaciones de pases entre terceros a 1 día,Series.xlsm,Monto,D,En millones de ARS,ML,2008-01-02,2026-07-29,1775742.0
+152,Pases pasivos para el BCRA (incluye pases pasivos con fci),Series.xlsm,Saldos,D,En millones de ARS,ML,2004-05-28,2026-07-29,0.0
+153,Pases pasivos para el BCRA con fondos comunes de inversión,Series.xlsm,Saldos,D,En millones de ARS,ML,2014-01-02,2026-07-29,0.0
+154,Pases activos para el BCRA,Series.xlsm,Saldos,D,En millones de ARS,ML,2004-05-28,2026-07-29,0.0
+155,LELIQ y NOTALQ,Series.xlsm,Saldos,D,En millones de ARS,ML,2018-01-11,2026-07-29,0.0
+156,"LEBAC y NOBAC , LEGAR y LEMIN ",Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-29,234480.3971
+157,LEBAC y NOBAC  de entidades financieras ,Series.xlsm,Saldos,D,En millones de ARS,ML,2008-07-04,2026-07-29,0.0
+158,"LEBAC, LEDIV y BOPREAL",Series.xlsm,Saldos,D,En millones de USD,USD,2003-01-02,2026-07-29,5652.99
+159,NOCOM ,Series.xlsm,Saldos,D,En millones de ARS,ML,2018-10-11,2026-07-29,0.0
 160,Tasas de interés de política monetaria,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2015-12-16,2025-07-10,29.0
 161,Tasas de interés de política monetaria,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2020-01-23,2025-07-10,33.63
 162,Tasa de interés por pases pasivos para el BCRA a 1 día,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2004-05-28,2024-07-19,40.0
@@ -173,9 +173,9 @@ id_variable,descripcion,categoria,tipo_serie,periodicidad,unidad_expresion,moned
 193,Margen sobre BADLAR total de NOBAC de 2 años,Series.xlsm,Margen,D,En porcentaje nominal anual,ML,2005-04-19,2006-02-07,6.194
 194,Margen sobre BADLAR bancos privados de NOBAC de 2 años,Series.xlsm,Margen,D,En porcentaje nominal anual,ML,2005-05-31,2011-10-11,0.86
 195,Margen sobre tasa de politica monetaria de NOTALIQ en pesos de 190 días,Series.xlsm,Margen,D,En porcentaje nominal anual,ML,2022-02-22,2023-09-13,2.5
-196,"LEFI en cartera de entidades financieras, en valor técnico",Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-28,0.0
-197,M2 transaccional del sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2021-01-04,2026-07-24,63515181.405
-198,Otros,Series.xlsm,Saldos,D,En millones de ARS,ML,2025-07-15,2026-07-28,2565733.083
+196,"LEFI en cartera de entidades financieras, en valor técnico",Series.xlsm,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-29,0.0
+197,M2 transaccional del sector privado,Series.xlsm,Saldos,D,En millones de ARS,ML,2021-01-04,2026-07-27,64267539.708
+198,Otros,Series.xlsm,Saldos,D,En millones de ARS,ML,2025-07-15,2026-07-29,2993307.3293
 199,"Préstamos a los gobiernos nacional, provinciales, municipales y corporaciones intergubernamentales",Préstamos por tipo de titular,Saldos a fin de mes,M,En miles de ARS,ML,1990-01-31,2026-05-31,833811.0
 200,Préstamos a la administración central,Préstamos por tipo de titular,Saldos a fin de mes,M,En miles de ARS,ML,1989-12-31,2026-05-31,61884.0
 201,Préstamos a entidades descentralizadas,Préstamos por tipo de titular,Saldos a fin de mes,M,En miles de ARS,ML,1989-12-31,2026-05-31,89499.0
@@ -1164,45 +1164,45 @@ id_variable,descripcion,categoria,tipo_serie,periodicidad,unidad_expresion,moned
 1184,Préstamos prendarios a personas jurídicas no destinados a la compra de automotores o maquinarias,Préstamos por tipo de titular y destino,Saldos a fin de mes,M,En miles de ARS,ME,1999-12-31,2026-05-31,416022.0
 1185,Total de préstamos al sector privado no financiero,Préstamos por tipo de titular y destino,Saldos a fin de mes,M,En miles de ARS,ME,1999-12-31,2026-05-31,132039614.0
 1186,Total de préstamos a personas humanas,Préstamos por tipo de titular y destino,Saldos a fin de mes,M,En miles de ARS,ME,1999-12-31,2026-05-31,63405370.0
-1187,Régimen de bandas cambiarias. Límite inferior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2025-04-14,2026-07-30,754.66
-1188,Régimen de bandas cambiarias. Límite superior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2025-04-14,2026-07-30,1843.63
-1189,Tasa de interés de depósitos a plazo fijo en pesos,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-28,22.1
-1190,Tasa de interés de depósitos a plazo fijo en pesos de personas humanas,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2010-01-04,2026-07-28,19.26
-1191,Tasa de interés de depósitos a plazo fijo en pesos de prestadores de servicios financieros,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2010-01-04,2026-07-28,23.08
-1192,Tasa de interés de depósitos a plazo fijo en pesos de otras personas jurídicas,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2010-01-04,2026-07-28,21.57
-1193,Tasa de interés de depósitos a plazo fijo en dólares,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ME,2003-01-02,2026-07-28,1.35
-1194,Tasa de interés de depósitos a plazo fijo en dólares de personas humanas,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ME,2010-01-04,2026-07-28,1.47
-1195,Tasa de interés de depósitos a plazo fijo en dólares de personas jurídicas,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ME,2010-01-04,2026-07-28,1.26
-1196,Tasa de interés de depósitos a la vista remunerados en pesos de prestadores de servicios financieros,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2018-01-02,2026-07-28,12.96
-1197,"Tasa de Intereses Moratorios (TIM)  CCC, art. 768(c)",Principales Variables,Tasa de interés,D,En porcentaje,ML,1993-06-03,2026-07-30,160437.9316
-1198,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML,1993-06-03,2026-07-30,92459.4861
+1187,Régimen de bandas cambiarias. Límite inferior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2025-04-14,2026-07-31,754.14
+1188,Régimen de bandas cambiarias. Límite superior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,2025-04-14,2026-07-31,1844.87
+1189,Tasa de interés de depósitos a plazo fijo en pesos,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2003-01-02,2026-07-29,21.15
+1190,Tasa de interés de depósitos a plazo fijo en pesos de personas humanas,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2010-01-04,2026-07-29,19.05
+1191,Tasa de interés de depósitos a plazo fijo en pesos de prestadores de servicios financieros,Series.xlsm,Tasa de interés,D,En porcentaje efectivo anual,ML,2010-01-04,2026-07-29,22.93
+1192,Tasa de interés de depósitos a plazo fijo en pesos de otras personas jurídicas,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2010-01-04,2026-07-29,21.77
+1193,Tasa de interés de depósitos a plazo fijo en dólares,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ME,2003-01-02,2026-07-29,1.19
+1194,Tasa de interés de depósitos a plazo fijo en dólares de personas humanas,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ME,2010-01-04,2026-07-29,1.28
+1195,Tasa de interés de depósitos a plazo fijo en dólares de personas jurídicas,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ME,2010-01-04,2026-07-29,1.11
+1196,Tasa de interés de depósitos a la vista remunerados en pesos de prestadores de servicios financieros,Series.xlsm,Tasa de interés,D,En porcentaje nominal anual,ML,2018-01-02,2026-07-29,12.95
+1197,"Tasa de Intereses Moratorios (TIM)  CCC, art. 768(c)",Principales Variables,Tasa de interés,D,En porcentaje,ML,1993-06-03,2026-07-31,160548.6585
+1198,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML,1993-06-03,2026-07-31,92510.9031
 1199,Tasa de interés de adelantos en cuenta corriente a tasa fija ,Informe Monetario Diario,Tasa de interés,M,En porcentaje nominal anual,ML,1990-01-31,2026-06-30,40.62
-1200,Efectivo en moneda extranjera en entidades financieras ,Informe Monetario Diario,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-27,3815.0
-1201,Líneas del exterior comerciales (obligaciones de las entidades financieras con entidades del exterior),Informe Monetario Diario,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-27,1974.0
-1202,Líneas del exterior financieras (obligaciones de las entidades financieras con entidades del exterior),Informe Monetario Diario,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-27,734.0
-1203,Tasas de interés de depósitos en cajas de ahorro,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1990-01-05,2026-07-28,4.76
-1204,Tasa de interés del total de depósitos a plazo fijo,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1993-04-01,2026-07-28,22.1
-1205,Tasa de interés de depósitos a plazo fijo de 7 a 59 días,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1993-04-01,2026-07-28,22.04
-1207,Tasa de interés de depósitos a plazo fijo de 30 días,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1985-08-26,2026-07-28,20.74
-1208,Tasa de interés de depósitos a plazo fijo de 60 días o más,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1993-04-01,2026-07-28,22.79
-1209,Tasas de interés de depósitos en cajas de ahorro,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-01-03,2026-07-28,0.23
-1210,Tasa de interés del total de depósitos a plazo fijo,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-01-03,2026-07-28,1.35
-1211,Tasa de interés de depósitos a plazo fijo de 7 a 59 días,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-01-03,2026-07-28,1.16
-1213,Tasa de interés de depósitos a plazo fijo de 30 días,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-08-01,2026-07-28,1.23
-1214,Tasa de interés de depósitos a plazo fijo de 60 días o más,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-01-03,2026-07-28,1.92
+1200,Efectivo en moneda extranjera en entidades financieras ,Informe Monetario Diario,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-28,3889.0
+1201,Líneas del exterior comerciales (obligaciones de las entidades financieras con entidades del exterior),Informe Monetario Diario,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-28,1969.0
+1202,Líneas del exterior financieras (obligaciones de las entidades financieras con entidades del exterior),Informe Monetario Diario,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-28,731.0
+1203,Tasas de interés de depósitos en cajas de ahorro,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1990-01-05,2026-07-29,4.69
+1204,Tasa de interés del total de depósitos a plazo fijo,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1993-04-01,2026-07-29,21.15
+1205,Tasa de interés de depósitos a plazo fijo de 7 a 59 días,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1993-04-01,2026-07-29,21.02
+1207,Tasa de interés de depósitos a plazo fijo de 30 días,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1985-08-26,2026-07-29,20.39
+1208,Tasa de interés de depósitos a plazo fijo de 60 días o más,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ML,1993-04-01,2026-07-29,23.05
+1209,Tasas de interés de depósitos en cajas de ahorro,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-01-03,2026-07-29,0.23
+1210,Tasa de interés del total de depósitos a plazo fijo,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-01-03,2026-07-29,1.19
+1211,Tasa de interés de depósitos a plazo fijo de 7 a 59 días,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-01-03,2026-07-29,1.05
+1213,Tasa de interés de depósitos a plazo fijo de 30 días,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-08-01,2026-07-29,1.05
+1214,Tasa de interés de depósitos a plazo fijo de 60 días o más,Tasas de interés de depósitos,Tasa de interés,D,En porcentaje nominal anual,ME,1994-01-03,2026-07-29,2.03
 1215,Tasa de interés de financiaciones con tarjetas de crédito,Informe Monetario Diario,Tasa de interés,M,En porcentaje nominal anual,ML,2002-01-31,2026-06-30,84.56
 1216,Tasa de interés de documentos a sola firma a tasa fija ,Informe Monetario Diario,Tasa de interés,M,En porcentaje nominal anual,ML,1993-06-30,2026-06-30,29.2
 1217,Tasa de interés de préstamos hipotecarios a tasa fija ,Informe Monetario Diario,Tasa de interés,M,En porcentaje nominal anual,ML,1993-06-30,2026-06-30,30.7
 1218,Tasa de interés de préstamos prendarios a tasa fija ,Informe Monetario Diario,Tasa de interés,M,En porcentaje nominal anual,ML,1993-06-30,2026-06-30,16.37
 1219,Tasa de interés de préstamos personales a tasa fija ,Informe Monetario Diario,Tasa de interés,M,En porcentaje nominal anual,ML,2002-01-31,2026-06-30,66.55
 1220,Tasa de interés de financiaciones con tarjetas de crédito con tasa distinta de cero,Informe Monetario Diario,Tasa de interés,M,En porcentaje nominal anual,ML,2010-07-31,2026-06-30,84.56
-1221,Liquidez en pesos de las entidades financieras,Informe Monetario Diario,Cociente,D,Porcentaje de depósitos,ML,2017-07-03,2026-07-24,46.7
-1222,Cheques Cancelatorios en moneda extranjera y Certificados de Depósitos para la Inversión (CEDIN),Informe Monetario Diario,Saldos,D,En millones de USD,ME,2018-01-02,2026-07-24,16.0
-1223,LEGAR y LEMIN ,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2021-02-08,2026-07-27,235919.8304
-1224,Créditos del BCRA al sistema financiero,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2011-11-11,2026-07-27,201375.211
-1225,Adelantos transitorios del BCRA al Gobierno Nacional,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,4091100.3704
-1226,Reservas Internacionales expresadas en pesos,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,73672824.3019
-1227,Tasa de interes de depósitos a plazo fijo UVA,Informe Monetario Diario,Tasa de interés,D,En porcentaje nominal anual,ML,2016-06-23,2026-07-27,0.26
+1221,Liquidez en pesos de las entidades financieras,Informe Monetario Diario,Cociente,D,Porcentaje de depósitos,ML,2017-07-03,2026-07-27,46.61
+1222,Cheques Cancelatorios en moneda extranjera y Certificados de Depósitos para la Inversión (CEDIN),Informe Monetario Diario,Saldos,D,En millones de USD,ME,2018-01-02,2026-07-27,16.0
+1223,LEGAR y LEMIN ,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2021-02-08,2026-07-28,231943.9236
+1224,Créditos del BCRA al sistema financiero,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2011-11-11,2026-07-28,201387.435
+1225,Adelantos transitorios del BCRA al Gobierno Nacional,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-28,4091100.3704
+1226,Reservas Internacionales expresadas en pesos,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-28,73394663.8307
+1227,Tasa de interes de depósitos a plazo fijo UVA,Informe Monetario Diario,Tasa de interés,D,En porcentaje nominal anual,ML,2016-06-23,2026-07-28,0.16
 1228,Liquidez de las entidades financieras en pesos y en moneda extranjera,Informe Monetario Diario,Cociente,D,Porcentaje de depósitos,MEyML,2004-12-31,2026-05-07,47.7
 1229,Depósitos del sector público,Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2003-01-02,2026-05-07,27009056.0
 1230,Depósitos a la vista del sector público (cuentas corrientes y cajas de ahorro),Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2003-01-02,2026-05-07,9432622.0
@@ -1214,369 +1214,369 @@ id_variable,descripcion,categoria,tipo_serie,periodicidad,unidad_expresion,moned
 1236,Préstamos personales y mediante tarjetas de crédito,Informe Monetario Diario,Saldos,D,En millones de ARS,MEyML,2003-01-02,2026-05-07,44904650.987
 1237,Préstamos hipotecarios y prendarios otorgados al sector privado,Informe Monetario Diario,Saldos,D,En millones de ARS,MEyML,2003-01-02,2026-05-07,16200071.998
 1238,Otros préstamos otorgados al sector privado,Informe Monetario Diario,Saldos,D,En millones de ARS,MEyML,2003-01-02,2026-05-07,10799973.613
-1239,M2 Privado (billetes y monedas en poder del público+ cheques cancelatorios en pesos+cuentas corrientes y cajas de ahorros en pesos del sector privado),Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2017-01-02,2026-05-22,68801213.0
+1239,M2 Privado (billetes y monedas en poder del público+ cheques cancelatorios en pesos+cuentas corrientes y cajas de ahorros en pesos del sector privado),Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2017-01-02,2026-05-22,68742922.0
 1240,Tasa de interés de préstamos hipotecarios de UVA,Informe Monetario Diario,Tasa de interés,M,En porcentaje nominal anual,ML,2016-05-31,2026-06-30,7.02
 1241,Depósitos a la vista del sector privado (cuentas corrientes y cajas de ahorro),Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2003-01-02,2026-05-07,49860490.0
 1242,Depósitos a plazo del sector privado (a plazo fijo e inversiones),Informe Monetario Diario,Saldos,D,En millones de ARS,ML,2003-01-02,2026-05-07,65136965.0
-1243,Cuentas corrientes en moneda extranjera en el BCRA,Informe Monetario Diario,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,15790.852
-1244,Reservas internacionales,Activos y pasivos del BCRA,Saldos,D,En millones de USD,ME,1996-01-03,2026-07-27,49164.0
-1245,"Oro, divisas, colocaciones a plazo y otros activos incluidos en las reservas internacionales",Activos y pasivos del BCRA,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-27,49164.0
+1243,Cuentas corrientes en moneda extranjera en el BCRA,Informe Monetario Diario,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-28,15720.3773
+1244,Reservas internacionales,Activos y pasivos del BCRA,Saldos,D,En millones de USD,ME,1996-01-03,2026-07-28,48935.0
+1245,"Oro, divisas, colocaciones a plazo y otros activos incluidos en las reservas internacionales",Activos y pasivos del BCRA,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-28,48935.0
 1246,Integración de requisitos de liquidez en corresponsales del exterior,Activos y pasivos del BCRA,Saldos,D,En millones de USD,ME,1996-01-02,2002-02-28,12.0
-1247,Pasivos monetarios (base monetaria + depósitos y otros pasivos monetarios en moneda extranjera),Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,1996-01-02,2026-07-27,70011266.0
-1248,Base monetaria,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,46324059.0
-1249,Circulación monetaria,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,28575298.0
-1250,Cuenta corriente en pesos en el BCRA,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-27,17748761.0
-1251,Cuenta corriente en pesos en el BCRA de fondos para el pago de órdenes de pago previsional,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-27,0.0
-1252,Cuenta corriente en pesos en el BCRA de fondos no utilizados para el pago de órdenes de pago previsional,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-27,17748761.0
-1253,Fondo de liquidez bancaria en pesos,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2001-12-28,2026-07-27,0.0
-1254,Depósitos y otros pasivos monetarios en moneda extranjera en el BCRA,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,1996-01-02,2026-07-27,23687207.0
-1255,Fondo de liquidez bancaria en moneda extranjera,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,2001-12-28,2026-07-27,0.0
-1256,Cuenta corriente en moneda extranjera en el BCRA,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,1996-01-02,2026-07-27,23662777.0
-1257,Cedin y cheques cancelatorios en moneda extranjera,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,2010-11-23,2026-07-27,24430.0
-1258,"Lebac, nobac y otras letras emitidas por el BCRA en pesos (no incluye leliq ni notaliq)",Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2002-03-15,2026-07-27,235920.0
-1259,"Lebac, nobac y otras letras emitidas por el BCRA en moneda extranjera",Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,2002-03-15,2026-07-27,8471073.0
-1260,Leliq y notaliq,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2018-01-02,2026-07-27,0.0
-1261,Posición neta de pases (pasivos - activos),Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,0.0
-1262,Posición de pases pasivos,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,0.0
-1263,Posición de pases activos,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,0.0
-1264,Depósitos del gobierno en el BCRA,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,13288407.0
-1265,Depósitos del gobierno en el BCRA en pesos,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2024-01-02,2026-07-27,8299436.0
-1266,Depósitos del gobierno en el BCRA en moneda extranjera,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,2024-01-02,2026-07-27,4988971.0
-1267,Redescuentos y adelantos por iliquidez otorgados al sistema financiero,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2002-01-02,2026-07-27,0.0
-1268,Adelantos transitorios del BCRA al gobierno nacional,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,4091100.3704
+1247,Pasivos monetarios (base monetaria + depósitos y otros pasivos monetarios en moneda extranjera),Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,1996-01-02,2026-07-28,68646822.0
+1248,Base monetaria,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,45044437.0
+1249,Circulación monetaria,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,28625165.0
+1250,Cuenta corriente en pesos en el BCRA,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-28,16419272.0
+1251,Cuenta corriente en pesos en el BCRA de fondos para el pago de órdenes de pago previsional,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-28,0.0
+1252,Cuenta corriente en pesos en el BCRA de fondos no utilizados para el pago de órdenes de pago previsional,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2001-06-01,2026-07-28,16419272.0
+1253,Fondo de liquidez bancaria en pesos,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2001-12-28,2026-07-28,0.0
+1254,Depósitos y otros pasivos monetarios en moneda extranjera en el BCRA,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,1996-01-02,2026-07-28,23602385.0
+1255,Fondo de liquidez bancaria en moneda extranjera,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,2001-12-28,2026-07-28,0.0
+1256,Cuenta corriente en moneda extranjera en el BCRA,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,1996-01-02,2026-07-28,23578031.0
+1257,Cedin y cheques cancelatorios en moneda extranjera,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,2010-11-23,2026-07-28,24354.0
+1258,"Lebac, nobac y otras letras emitidas por el BCRA en pesos (no incluye leliq ni notaliq)",Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2002-03-15,2026-07-28,231944.0
+1259,"Lebac, nobac y otras letras emitidas por el BCRA en moneda extranjera",Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,2002-03-15,2026-07-28,8478575.0
+1260,Leliq y notaliq,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2018-01-02,2026-07-28,0.0
+1261,Posición neta de pases (pasivos - activos),Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,0.0
+1262,Posición de pases pasivos,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,0.0
+1263,Posición de pases activos,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,0.0
+1264,Depósitos del gobierno en el BCRA,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,13292742.0
+1265,Depósitos del gobierno en el BCRA en pesos,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2024-01-02,2026-07-28,8517580.0
+1266,Depósitos del gobierno en el BCRA en moneda extranjera,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ME,2024-01-02,2026-07-28,4775163.0
+1267,Redescuentos y adelantos por iliquidez otorgados al sistema financiero,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2002-01-02,2026-07-28,0.0
+1268,Adelantos transitorios del BCRA al gobierno nacional,Activos y pasivos del BCRA,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-28,4091100.3704
 1269,Monto acumulado del rescate de cuasimonedas,Activos y pasivos del BCRA,Monto,D,En millones de ARS,ML,2003-01-02,2005-12-31,7209.0
 1270,Asignaciones de DEGS 2009,Activos y pasivos del BCRA,Saldos,D,En millones de USD,ME,2009-08-28,2009-12-31,0.0
-1271,Efectivo en entidades financieras,Préstamos por línea,Saldos,D,En millones de ARS,ML,1984-03-01,2026-07-27,2103550.0
-1272,Depósitos de las entidades financieras en entidades financieras,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,17726301.0
-1273,Títulos valores en cartera de las entidades financieras,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,97499198.0
-1274,Certificados de participación en fideicomisos financieros,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1150917.0
-1275,Total de préstamos otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,107386028.0
-1276,Total de préstamos de efectivo otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-27,106820139.0
-1277,Adelantos en cuenta corriente otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,10376498.0
-1278,Otros adelantos otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,627303.0
-1279,Documentos a sola firma otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,16660744.0
-1280,Descuento de documentos al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,7487851.0
-1281,Documentos comprados otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,2504835.0
-1282,Préstamos hipotecarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,8158222.0
-1283,Préstamos prendarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,6206481.0
-1284,Préstamos personales otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,21485728.0
-1285,Financiaciones mediante tarjetas de crédito al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,23478785.0
-1286,Créditos documentarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,248.0
-1287,"Otros préstamos otorgados al total de sectores (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,9833443.0
-1288,Préstamos de títulos valores públicos del país al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,548259.0
-1289,Préstamos de títulos privados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1290,Préstamos de otros activos financieros (excluye préstamos de efectivo y de titulos valores) al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,17630.0
-1291,Intereses documentados del total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,923125.0
-1292,Efectivo en entidades financieras,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-27,3815.0
-1293,Depósitos de las entidades financieras en entidades financieras,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,15673.0
-1294,Títulos valores en cartera de las entidades financieras,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,6101.0
-1295,Certificados de participación en fideicomisos financieros,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,33.0
-1296,Total de préstamos otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,24738.0
-1297,Total de préstamos de efectivo otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-27,24703.0
-1298,Adelantos en cuenta corriente otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1299,Otros adelantos otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,251.0
-1300,Documentos a sola firma otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,18281.0
-1301,Descuento de documentos al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1302,Documentos comprados otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,22.0
-1303,Préstamos hipotecarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,686.0
-1304,Préstamos prendarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1378.0
-1305,Préstamos personales otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,4.0
-1306,Financiaciones mediante tarjetas de crédito al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,704.0
-1307,Créditos documentarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,55.0
-1308,"Otros préstamos otorgados al total de sectores (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,3323.0
-1309,Préstamos de títulos valores públicos del país al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,35.0
-1310,Préstamos de títulos privados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1311,Préstamos de otros activos financieros (excluye préstamos de efectivo y de titulos valores) al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1312,Intereses documentados del total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,4.0
-1313,Total de préstamos otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,640653.0
-1314,Total de préstamos totales de efectivo otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-27,640653.0
-1315,Adelantos en cuenta corriente otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,101305.0
-1316,Otros adelantos otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,632.0
-1317,Documentos a sola firma otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,66404.0
-1318,Descuento de documentos al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,30640.0
-1319,Documentos comprados otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1952.0
-1320,Préstamos hipotecarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1321,Préstamos prendarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,25132.0
-1322,Préstamos personales otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1323,Financiaciones mediante tarjetas de crédito al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,7245.0
-1324,Créditos documentarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1325,"Otros préstamos que no son adelandos, documentos, personales, hipotecarios y por el uso de tarjeras de crédito otorgados al sector público",Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,407341.0
-1326,Intereses documentados de préstamos al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,55.0
-1327,Total de préstamos otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,105.0
-1328,Total de préstamos de efectivo otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-27,105.0
-1329,Adelantos en cuenta corriente otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1330,Otros adelantos otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1331,Documentos a sola firma otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1332,Descuento de documentos al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1333,Documentos comprados otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1334,Préstamos hipotecarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1335,Préstamos prendarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1336,Préstamos personales otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1337,Financiaciones mediante tarjetas de crédito al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1338,Créditos documentarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1339,"Otros préstamos otorgados al sector público (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,105.0
-1340,Intereses documentados de préstamos al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1341,Total de préstamos otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,103117974.0
-1342,Total de préstamos de efectivo otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-27,102701964.0
-1343,Adelantos en cuenta corriente otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-27,10274043.0
-1344,Otros adelantos otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,561083.0
-1345,Documentos a sola firma otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-27,16222377.0
-1346,Descuento de documentos al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,7142391.0
-1347,Documentos comprados otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1326464.0
-1348,Préstamos hipotecarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-27,8158222.0
-1349,Préstamos prendarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-27,6181349.0
-1350,Préstamos personales otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,21485728.0
-1351,Financiaciones mediante tarjetas de crédito al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,23471053.0
-1352,Créditos documentarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,248.0
-1353,"Otros préstamos otorgados al sector privado (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,7879006.0
-1354,Intereses documentados de préstamos al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,788544.0
-1355,Total de préstamos otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,24561.0
-1356,Total de préstamos totales de efectivo otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-27,24526.0
-1357,Adelantos en cuenta corriente otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-27,0.0
-1358,Otros adelantos otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-27,251.0
-1359,Documentos a sola firma otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-27,18228.0
-1360,Descuento de documentos al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1361,Documentos comprados otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,16.0
-1362,Préstamos hipotecarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-27,686.0
-1363,Préstamos prendarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-27,1378.0
-1364,Préstamos personales otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,4.0
-1365,Financiaciones mediante tarjetas de crédito al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,703.0
-1366,Créditos documentarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,55.0
-1367,"Otros préstamos otorgados al sector privado (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,3206.0
-1368,Intereses documentados de préstamos al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,4.0
-1369,Depósitos totales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,165237029.0
-1370,Depósitos totales de efectivo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,164979112.0
-1371,Cuentas corrientes del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,33212762.0
+1271,Efectivo en entidades financieras,Préstamos por línea,Saldos,D,En millones de ARS,ML,1984-03-01,2026-07-28,2161841.0
+1272,Depósitos de las entidades financieras en entidades financieras,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,16538984.0
+1273,Títulos valores en cartera de las entidades financieras,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,98299708.0
+1274,Certificados de participación en fideicomisos financieros,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1142634.0
+1275,Total de préstamos otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,108159573.0
+1276,Total de préstamos de efectivo otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-28,107545312.0
+1277,Adelantos en cuenta corriente otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,10233711.0
+1278,Otros adelantos otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,589669.0
+1279,Documentos a sola firma otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,16660631.0
+1280,Descuento de documentos al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,7402673.0
+1281,Documentos comprados otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,2516921.0
+1282,Préstamos hipotecarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,8175260.0
+1283,Préstamos prendarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,6278421.0
+1284,Préstamos personales otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,21527503.0
+1285,Financiaciones mediante tarjetas de crédito al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,24282895.0
+1286,Créditos documentarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,248.0
+1287,"Otros préstamos otorgados al total de sectores (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,9877379.0
+1288,Préstamos de títulos valores públicos del país al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,596632.0
+1289,Préstamos de títulos privados al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1290,Préstamos de otros activos financieros (excluye préstamos de efectivo y de titulos valores) al total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,17630.0
+1291,Intereses documentados del total de sectores,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,921475.0
+1292,Efectivo en entidades financieras,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-28,3889.0
+1293,Depósitos de las entidades financieras en entidades financieras,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,15669.0
+1294,Títulos valores en cartera de las entidades financieras,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,6286.0
+1295,Certificados de participación en fideicomisos financieros,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,33.0
+1296,Total de préstamos otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,24932.0
+1297,Total de préstamos de efectivo otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-28,24885.0
+1298,Adelantos en cuenta corriente otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1299,Otros adelantos otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,250.0
+1300,Documentos a sola firma otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,18351.0
+1301,Descuento de documentos al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1302,Documentos comprados otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,22.0
+1303,Préstamos hipotecarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,689.0
+1304,Préstamos prendarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1380.0
+1305,Préstamos personales otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,4.0
+1306,Financiaciones mediante tarjetas de crédito al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,757.0
+1307,Créditos documentarios otorgados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,54.0
+1308,"Otros préstamos otorgados al total de sectores (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,3377.0
+1309,Préstamos de títulos valores públicos del país al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,47.0
+1310,Préstamos de títulos privados al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1311,Préstamos de otros activos financieros (excluye préstamos de efectivo y de titulos valores) al total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1312,Intereses documentados del total de sectores,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,4.0
+1313,Total de préstamos otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,584800.0
+1314,Total de préstamos totales de efectivo otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-28,584800.0
+1315,Adelantos en cuenta corriente otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,46494.0
+1316,Otros adelantos otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,482.0
+1317,Documentos a sola firma otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,66404.0
+1318,Descuento de documentos al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,30229.0
+1319,Documentos comprados otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1952.0
+1320,Préstamos hipotecarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1321,Préstamos prendarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,24566.0
+1322,Préstamos personales otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1323,Financiaciones mediante tarjetas de crédito al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,7264.0
+1324,Créditos documentarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1325,"Otros préstamos que no son adelandos, documentos, personales, hipotecarios y por el uso de tarjeras de crédito otorgados al sector público",Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,407409.0
+1326,Intereses documentados de préstamos al sector público,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,55.0
+1327,Total de préstamos otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,105.0
+1328,Total de préstamos de efectivo otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-28,105.0
+1329,Adelantos en cuenta corriente otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1330,Otros adelantos otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1331,Documentos a sola firma otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1332,Descuento de documentos al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1333,Documentos comprados otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1334,Préstamos hipotecarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1335,Préstamos prendarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1336,Préstamos personales otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1337,Financiaciones mediante tarjetas de crédito al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1338,Créditos documentarios otorgados al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1339,"Otros préstamos otorgados al sector público (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,105.0
+1340,Intereses documentados de préstamos al sector público,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1341,Total de préstamos otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,103850049.0
+1342,Total de préstamos de efectivo otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-28,103415484.0
+1343,Adelantos en cuenta corriente otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-28,10186154.0
+1344,Otros adelantos otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,549218.0
+1345,Documentos a sola firma otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-28,16218478.0
+1346,Descuento de documentos al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,7058974.0
+1347,Documentos comprados otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1325978.0
+1348,Préstamos hipotecarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-28,8175260.0
+1349,Préstamos prendarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1996-04-01,2026-07-28,6253855.0
+1350,Préstamos personales otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,21527503.0
+1351,Financiaciones mediante tarjetas de crédito al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,24275089.0
+1352,Créditos documentarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,248.0
+1353,"Otros préstamos otorgados al sector privado (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,7844727.0
+1354,Intereses documentados de préstamos al sector privado,Préstamos por línea,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,786909.0
+1355,Total de préstamos otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,24748.0
+1356,Total de préstamos totales de efectivo otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-28,24701.0
+1357,Adelantos en cuenta corriente otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-28,0.0
+1358,Otros adelantos otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-28,250.0
+1359,Documentos a sola firma otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-28,18298.0
+1360,Descuento de documentos al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1361,Documentos comprados otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,16.0
+1362,Préstamos hipotecarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-28,689.0
+1363,Préstamos prendarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1996-04-01,2026-07-28,1380.0
+1364,Préstamos personales otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,4.0
+1365,Financiaciones mediante tarjetas de crédito al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,756.0
+1366,Créditos documentarios otorgados al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,54.0
+1367,"Otros préstamos otorgados al sector privado (excluye adelantos, documentos, personales, hipotecarios, prendarios y tarjetas de crédito)",Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,3253.0
+1368,Intereses documentados de préstamos al sector privado,Préstamos por línea,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,4.0
+1369,Depósitos totales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,165666580.0
+1370,Depósitos totales de efectivo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,165408567.0
+1371,Cuentas corrientes del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,33548108.0
 1372,Cuentas corrientes de un millón de pesos y más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,44929275.0
-1373,Cuentas a la vista  del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1818162.0
+1373,Cuentas a la vista  del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1821779.0
 1374,Cuentas a la vista de un millón de pesos y más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,496437.0
-1375,Cajas de ahorro del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,30501927.0
+1375,Cajas de ahorro del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,30462767.0
 1376,Cajas de ahorro de un millón de pesos y más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,26551984.0
-1377,Plazo fijo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,75091070.0
-1378,Plazo fijo de hasta 59 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,67918162.0
-1379,Plazo fijo de 60 a 89 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,3790914.0
-1380,Plazo fijo de 90 a 179 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,2070080.0
-1381,Plazo fijo de 180 a 365 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1229867.0
-1382,Plazo fijo de 366 días o más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,82046.0
+1377,Plazo fijo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,75780843.0
+1378,Plazo fijo de hasta 59 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,68610958.0
+1379,Plazo fijo de 60 a 89 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,3785227.0
+1380,Plazo fijo de 90 a 179 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,2071413.0
+1381,Plazo fijo de 180 a 365 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1231242.0
+1382,Plazo fijo de 366 días o más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,82004.0
 1383,Cedros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2011-08-18,0.0
-1384,Plazo fijo con cláusula cer/uva/uvi del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-27,922725.0
+1384,Plazo fijo con cláusula cer/uva/uvi del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-28,919592.0
 1385,Plazo fijo de un millón de pesos y más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,58300346.0
-1386,Plazo fijo judiciales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,1418165.0
-1387,Inversiones a plazo constante del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1388,Inversiones con opción de cancelación anticipada del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,12952912.0
-1389,Inversiones con opción de renovación por plazo determinado del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1390,Saldos inmovilizados del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,206221.0
-1391,Órdenes de pago del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,5568.0
-1392,Depósitos en garantía del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,51756.0
-1393,Depósitos vinculados con operaciones cambiarias del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1394,Otros depósitos (excluye vista y a plazo) del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,824893.0
+1386,Plazo fijo judiciales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-28,1418930.0
+1387,Inversiones a plazo constante del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1388,Inversiones con opción de cancelación anticipada del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,12379461.0
+1389,Inversiones con opción de renovación por plazo determinado del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1390,Saldos inmovilizados del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,170854.0
+1391,Órdenes de pago del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,5736.0
+1392,Depósitos en garantía del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,50892.0
+1393,Depósitos vinculados con operaciones cambiarias del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1394,Otros depósitos (excluye vista y a plazo) del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,831498.0
 1395,Otros depósitos de un millón de pesos y más (excluye vista y a plazo) del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,588360.0
 1396,Otros depósitos reprogramados a canjearse por tít. públicos del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2009-10-23,0.0
 1397,Otros depósitos reprogramados con acciones judiciales iniciadas del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2009-09-03,0.0
-1398,Depósitos de títulos valores públicos del país del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,257917.0
-1399,Depósitos de títulos privados del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1400,Depósitos de otros activos financieros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1401,Aceptaciones del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1402,Pasivos por préstamos vinculados con operaciones de comercio exterior  del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,31.0
-1403,Pasivos por préstamos vinculados con operaciones de comercio exterior con entidades locales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2001-01-02,2026-07-27,31.0
-1404,Pasivos por préstamos vinculados con operaciones de comercio exterior con entidades del exterior del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2001-01-02,2026-07-27,0.0
-1405,Pasivos por préstamos no vinculados con operaciones de comercio exterior del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,2075794.0
-1406,Pasivos por préstamos no vinculados con operaciones de comercio exterior con entidades locales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2001-01-02,2026-07-27,2075794.0
-1407,Pasivos por préstamos no vinculados con operaciones de comercio exterior con entidades del exterior del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2001-01-02,2026-07-27,0.0
-1408,Obligaciones negociables,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1866399.0
-1409,Obligaciones subordinadas,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,4627.0
-1410,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del total de sectores",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1411,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del total de sectores",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1257764.0
-1412,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del total de sectores",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,2401243.0
-1413,Pasivos pendientes de imputación por operaciones con fondos de terceros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,35601.0
-1414,Depósitos totales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,43659.0
-1415,Depósitos totales de efectivo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,43459.0
-1416,Cuentas corriente del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-27,11.0
+1398,Depósitos de títulos valores públicos del país del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,258012.0
+1399,Depósitos de títulos privados del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1400,Depósitos de otros activos financieros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1401,Aceptaciones del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1402,Pasivos por préstamos vinculados con operaciones de comercio exterior  del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,32.0
+1403,Pasivos por préstamos vinculados con operaciones de comercio exterior con entidades locales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2001-01-02,2026-07-28,32.0
+1404,Pasivos por préstamos vinculados con operaciones de comercio exterior con entidades del exterior del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2001-01-02,2026-07-28,0.0
+1405,Pasivos por préstamos no vinculados con operaciones de comercio exterior del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,2166708.0
+1406,Pasivos por préstamos no vinculados con operaciones de comercio exterior con entidades locales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2001-01-02,2026-07-28,2166708.0
+1407,Pasivos por préstamos no vinculados con operaciones de comercio exterior con entidades del exterior del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2001-01-02,2026-07-28,0.0
+1408,Obligaciones negociables,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1866402.0
+1409,Obligaciones subordinadas,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,4627.0
+1410,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del total de sectores",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,12116.0
+1411,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del total de sectores",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1653550.0
+1412,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del total de sectores",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,1911980.0
+1413,Pasivos pendientes de imputación por operaciones con fondos de terceros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,52140.0
+1414,Depósitos totales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,43766.0
+1415,Depósitos totales de efectivo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,43552.0
+1416,Cuentas corriente del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-28,21.0
 1417,Cuentas corrientes de un millón de dólaresy más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,0.0
-1418,Cuentas a la vista del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,313.0
+1418,Cuentas a la vista del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,313.0
 1419,Cuentas a la vista de un millón de dólares y más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,49.0
-1420,Cajas de ahorro del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-27,30481.0
+1420,Cajas de ahorro del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-28,30504.0
 1421,Cajas de ahorros de un millón de dólares y más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,8083.0
-1422,Plazo fijo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-27,12299.0
-1423,Plazo fijo de hasta 59 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-27,6700.0
-1424,Plazo fijo de 60 a 89 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1377.0
-1425,Plazo fijo de 90 a 179 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,2121.0
-1426,Plazo fijo de 180 a 365 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1662.0
-1427,Plazo fijo de 366 días o mas del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,440.0
+1422,Plazo fijo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-28,12362.0
+1423,Plazo fijo de hasta 59 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-28,6784.0
+1424,Plazo fijo de 60 a 89 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1350.0
+1425,Plazo fijo de 90 a 179 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,2121.0
+1426,Plazo fijo de 180 a 365 días del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1665.0
+1427,Plazo fijo de 366 días o mas del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,442.0
 1428,Plazo fijo de un millón de dólares y más del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,4126.0
-1429,Plazo fijo judiciales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,511.0
-1430,Inversiones a plazo constante del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1431,Inversiones con opción de cancelación anticipada del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,62.0
-1432,Inversiones con opción de renovación por plazo determinado del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1433,Saldos inmovilizados del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,161.0
-1434,Ordenes de pago del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1435,Depósitos en garantía del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,2.0
-1436,Depósitos vinculados con operaciones cambiarias del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1437,Otros depósitos (excluye vista y a plazo) del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,129.0
+1429,Plazo fijo judiciales del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-28,511.0
+1430,Inversiones a plazo constante del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1431,Inversiones con opción de cancelación anticipada del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,62.0
+1432,Inversiones con opción de renovación por plazo determinado del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1433,Saldos inmovilizados del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,169.0
+1434,Ordenes de pago del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1435,Depósitos en garantía del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,2.0
+1436,Depósitos vinculados con operaciones cambiarias del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1437,Otros depósitos (excluye vista y a plazo) del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,119.0
 1438,Otros depósitos de un millón de dólares y más (excluye vista y a plazo) del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,88.0
-1439,Depósitos de títulos valores públicos del país del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,200.0
-1440,Depósitos de títulos prívados del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1441,Depósitos de otros activos financieros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1442,Aceptaciones del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1443,Pasivos por préstamos vinculados con operaciones de comercio exterior,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1974.0
-1444,Pasivos por préstamos vinculados con operaciones de comercio exterior con entidades locales,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-27,0.0
-1445,Pasivos por préstamos vinculados con operaciones de comercio exterior con entidades del exterior,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-27,1974.0
-1446,Pasivos por préstamos no vinculados con operaciones de comercio exterior,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,836.0
-1447,Pasivos por préstamos no vinculados con operaciones de comercio exterior con entidades locales,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-27,102.0
-1448,Pasivos por préstamos no vinculados con operaciones de comercio exterior con entidades del exterior,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-27,734.0
-1449,Obligaciones negociables,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,3097.0
-1450,Obligaciones subordinadas,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,399.0
-1451,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del total de sectores",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1452,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del total de sectores",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,20.0
-1453,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del total de sectores",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-27,0.0
-1454,Pasivos pendientes de imputación por operaciones con fondos de terceros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,-195.0
-1455,Depósitos totales del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,45777999.0
-1456,Depósitos totales de efectivo del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,45777999.0
-1457,Cuentas corrientes del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,21462918.0
+1439,Depósitos de títulos valores públicos del país del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,214.0
+1440,Depósitos de títulos prívados del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1441,Depósitos de otros activos financieros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1442,Aceptaciones del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1443,Pasivos por préstamos vinculados con operaciones de comercio exterior,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1969.0
+1444,Pasivos por préstamos vinculados con operaciones de comercio exterior con entidades locales,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-28,0.0
+1445,Pasivos por préstamos vinculados con operaciones de comercio exterior con entidades del exterior,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-28,1969.0
+1446,Pasivos por préstamos no vinculados con operaciones de comercio exterior,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,823.0
+1447,Pasivos por préstamos no vinculados con operaciones de comercio exterior con entidades locales,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-28,92.0
+1448,Pasivos por préstamos no vinculados con operaciones de comercio exterior con entidades del exterior,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2001-01-02,2026-07-28,731.0
+1449,Obligaciones negociables,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,3139.0
+1450,Obligaciones subordinadas,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,399.0
+1451,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del total de sectores",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,8.0
+1452,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del total de sectores",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,53.0
+1453,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del total de sectores",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1996-01-02,2026-07-28,0.0
+1454,Pasivos pendientes de imputación por operaciones con fondos de terceros del total de sectores,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,-216.0
+1455,Depósitos totales del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,45970272.0
+1456,Depósitos totales de efectivo del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,45970272.0
+1457,Cuentas corrientes del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,22148080.0
 1458,Cuentas corrientes de un millón de pesosy más del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,23520958.0
-1459,Cuentas a la vista del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,623924.0
+1459,Cuentas a la vista del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,627190.0
 1460,Cuentas a la vista de un millón de pesos y más del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,324652.0
-1461,Caja de ahorro del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1171930.0
+1461,Caja de ahorro del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1222147.0
 1462,Caja de ahorros de un millón de pesos y más del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,1166316.0
-1463,Plazo fijo del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,10235755.0
-1464,Plazo fijo de hasta 59 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,9215171.0
-1465,Plazo fijo de 60 a 89 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,248434.0
-1466,Plazo fijo de 90 a 179 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,282222.0
-1467,Plazo fijo de 180 a 365 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,489212.0
-1468,Plazo fijo de 366 días o mas del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,716.0
+1463,Plazo fijo del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,10258546.0
+1464,Plazo fijo de hasta 59 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,9235012.0
+1465,Plazo fijo de 60 a 89 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,250192.0
+1466,Plazo fijo de 90 a 179 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,283414.0
+1467,Plazo fijo de 180 a 365 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,489212.0
+1468,Plazo fijo de 366 días o mas del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,716.0
 1469,Cedros del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2011-08-18,0.0
-1470,Plazo fijo con cláusula cer del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-27,388104.0
+1470,Plazo fijo con cláusula cer del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-28,386971.0
 1471,Plazo fijo de un millón de pesos y más del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,6031450.0
-1472,Plazo fijo judiciales del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,622806.0
-1473,Inversiones a plazo constante del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1474,Inversiones con opción de cancelación anticipada del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,11914726.0
-1475,Inversiones con opción de renovación por plazo determinado del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1476,Saldos inmovilizados del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,27312.0
-1477,Ordenes de pago del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,45.0
-1478,Depósitos en garantía del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1880.0
-1479,Depósitos vinculados con operaciones cambiarias del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1480,Otros depósitos (excluye vista y a plazo) del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,339507.0
+1472,Plazo fijo judiciales del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-28,622896.0
+1473,Inversiones a plazo constante del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1474,Inversiones con opción de cancelación anticipada del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,11341958.0
+1475,Inversiones con opción de renovación por plazo determinado del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1476,Saldos inmovilizados del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,2344.0
+1477,Ordenes de pago del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1478,Depósitos en garantía del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1880.0
+1479,Depósitos vinculados con operaciones cambiarias del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1480,Otros depósitos (excluye vista y a plazo) del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,368126.0
 1481,Otros depósitos de un millón de pesos y más (excluye vista y a plazo) del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,206136.0
 1482,Otros depósitos reprogramados a canjearse por tít. públicos del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2009-10-23,0.0
 1483,Otros depósitos reprogramados con acciones judiciales iniciadas del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2009-09-03,0.0
-1484,Depósitos de títulos valores públicos del país del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1485,Depósitos de títulos prívados del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1486,Depósitos de otros activos financieros del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1487,Utilización de fondos unificados (fuco) del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,10313842.0
-1488,Aceptaciones del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1489,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del sector público",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1490,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del sector público",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1491,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del sector público",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,30121.0
-1492,Pasivos pendientes de imputación por operaciones con fondos de terceros del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1493,Depósitos totales del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,2854.0
-1494,Depósitos totales de efectivo del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,2854.0
-1495,Cuentas corriente del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
+1484,Depósitos de títulos valores públicos del país del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1485,Depósitos de títulos prívados del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1486,Depósitos de otros activos financieros del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1487,Utilización de fondos unificados (fuco) del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,10356629.0
+1488,Aceptaciones del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1489,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del sector público",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1490,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del sector público",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1491,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del sector público",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,28001.0
+1492,Pasivos pendientes de imputación por operaciones con fondos de terceros del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1493,Depósitos totales del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,2909.0
+1494,Depósitos totales de efectivo del sector público,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,2909.0
+1495,Cuentas corriente del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
 1496,Cuentas corrientes de un millón de dólaresy más del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,0.0
-1497,Cuentas a la vista del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,136.0
+1497,Cuentas a la vista del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,136.0
 1498,Cuentas a la vista de un millón de dólares y más del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,16.0
-1499,Cajas de ahorro del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1374.0
+1499,Cajas de ahorro del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1432.0
 1500,Cajas de ahorros de un millón de dólares y más del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,1913.0
-1501,Plazo fijo del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1343.0
-1502,Plazo fijo de hasta 59 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,495.0
-1503,Plazo fijo de 60 a 89 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,251.0
-1504,Plazo fijo de 90 a 179 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,376.0
-1505,Plazo fijo de 180 a 365 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,218.0
-1506,Plazo fijo de 366 días o mas del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,3.0
+1501,Plazo fijo del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1342.0
+1502,Plazo fijo de hasta 59 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,495.0
+1503,Plazo fijo de 60 a 89 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,249.0
+1504,Plazo fijo de 90 a 179 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,376.0
+1505,Plazo fijo de 180 a 365 días del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,218.0
+1506,Plazo fijo de 366 días o mas del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,3.0
 1507,Plazo fijo de un millón de dólares y más del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,485.0
-1508,Plazo fijo judiciales del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,126.0
-1509,Inversiones a plazo constante del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1510,Inversiones con opción de cancelación anticipada del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1511,Inversiones con opción de renovación por plazo determinado del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1512,Saldos inmovilizados del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1.0
-1513,Ordenes de pago del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1514,Depósitos en garantía del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1515,Depósitos vinculados con operaciones cambiarias del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1516,Otros depósitos (excluye vista y a plazo) del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
+1508,Plazo fijo judiciales del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-28,126.0
+1509,Inversiones a plazo constante del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1510,Inversiones con opción de cancelación anticipada del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1511,Inversiones con opción de renovación por plazo determinado del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1512,Saldos inmovilizados del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1.0
+1513,Ordenes de pago del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1514,Depósitos en garantía del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1515,Depósitos vinculados con operaciones cambiarias del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1516,Otros depósitos (excluye vista y a plazo) del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
 1517,Otros depósitos de un millón de dólares y más (excluye vista y a plazo) del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,0.0
-1518,Depósitos de títulos valores públicos del país del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1519,Depósitos de títulos prívados del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1520,Depósitos de otros activos financieros del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1521,Aceptaciones del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1522,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del sector público",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1523,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del sector público",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1524,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del sector público",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1525,Pasivos pendientes de imputación por operaciones con fondos de terceros del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1526,Depósitos totales del sector privado,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,118618819.0
-1527,Depósitos totales de efectivo del sector privado,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,118551158.0
-1528,Cuentas corriente del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-27,21942028.0
+1518,Depósitos de títulos valores públicos del país del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1519,Depósitos de títulos prívados del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1520,Depósitos de otros activos financieros del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1521,Aceptaciones del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1522,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del sector público",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1523,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del sector público",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1524,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del sector público",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1525,Pasivos pendientes de imputación por operaciones con fondos de terceros del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1526,Depósitos totales del sector privado,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,118887503.0
+1527,Depósitos totales de efectivo del sector privado,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,118819855.0
+1528,Cuentas corriente del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1996-01-02,2026-07-28,21647489.0
 1529,Cuentas corrientes de un millón de pesosy más del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,21263802.0
-1530,Cuentas a la vista del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1186842.0
+1530,Cuentas a la vista del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1187196.0
 1531,Cuentas a la vista de un millón de pesos y más del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,171336.0
-1532,Cajas de ahorro del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,29171845.0
+1532,Cajas de ahorro del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,29083928.0
 1533,Cajas de ahorros de un millón de pesos y más del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,25287309.0
-1534,Plazo fijo del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,64530983.0
-1535,Plazo fijo de hasta 59 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,58399146.0
-1536,Plazo fijo de 60 a 89 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,3542475.0
-1537,Plazo fijo de 90 a 179 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1767488.0
-1538,Plazo fijo de 180 a 365 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,740565.0
-1539,Plazo fijo de 366 días o mas del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,81309.0
+1534,Plazo fijo del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,65197855.0
+1535,Plazo fijo de hasta 59 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,59071993.0
+1536,Plazo fijo de 60 a 89 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,3535026.0
+1537,Plazo fijo de 90 a 179 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1767628.0
+1538,Plazo fijo de 180 a 365 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,741940.0
+1539,Plazo fijo de 366 días o mas del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,81267.0
 1540,Cedros del sector privado,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2011-08-18,0.0
-1541,Plazo fijo con cláusula cer del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-27,520155.0
+1541,Plazo fijo con cláusula cer del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-31,2026-07-28,518156.0
 1542,Plazo fijo de un millón de pesos y más del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,51994064.0
-1543,Plazo fijo judiciales del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-27,793331.0
-1544,Inversiones a plazo constante del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1545,Inversiones con opción de cancelación anticipada del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,1038185.0
-1546,Inversiones con opción de renovación por plazo determinado del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1547,Saldos inmovilizados del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,178888.0
-1548,Ordenes de pago del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,4158.0
-1549,Depósitos en garantía del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,49870.0
-1550,Depósitos vinculados con operaciones cambiarias del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1551,Otros depósitos (excluye vista y a plazo) del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,448359.0
+1543,Plazo fijo judiciales del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2026-07-28,793987.0
+1544,Inversiones a plazo constante del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1545,Inversiones con opción de cancelación anticipada del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,1037503.0
+1546,Inversiones con opción de renovación por plazo determinado del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1547,Saldos inmovilizados del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,168489.0
+1548,Ordenes de pago del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,4403.0
+1549,Depósitos en garantía del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,49007.0
+1550,Depósitos vinculados con operaciones cambiarias del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1551,Otros depósitos (excluye vista y a plazo) del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,443986.0
 1552,Otros depósitos de un millón de pesos y más (excluye vista y a plazo) del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2025-12-30,377183.0
 1553,Otros depósitos reprogramados a canjearse por tít. públicos del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2009-10-23,0.0
 1554,Otros depósitos reprogramados con acciones judiciales iniciadas del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2003-01-02,2009-09-03,0.0
-1555,Depósitos de títulos valores públicos del país del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,67661.0
-1556,Depósitos de títulos prívados del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1557,Depósitos de otros activos financieros del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1558,Aceptaciones del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1559,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del sector privado",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1560,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del sector privado",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,170923.0
-1561,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del sector privado",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,0.0
-1562,Pasivos pendientes de imputación por operaciones con fondos de terceros del sector privado,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-27,109.0
-1563,Depósitos totales y otros pasivos de las entidades financieras del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,40490.0
-1564,Depósitos totales de efectivo del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,40458.0
-1565,Cuentas corriente del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,11.0
+1555,Depósitos de títulos valores públicos del país del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,67648.0
+1556,Depósitos de títulos prívados del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1557,Depósitos de otros activos financieros del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1558,Aceptaciones del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1559,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del sector privado",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1560,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del sector privado",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,202903.0
+1561,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del sector privado",Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,0.0
+1562,Pasivos pendientes de imputación por operaciones con fondos de terceros del sector privado,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,1999-12-30,2026-07-28,110.0
+1563,Depósitos totales y otros pasivos de las entidades financieras del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,40531.0
+1564,Depósitos totales de efectivo del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,40498.0
+1565,Cuentas corriente del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,20.0
 1566,Cuentas corrientes de un millón de dólaresy más del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,0.0
-1567,Cuentas a la vista del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,145.0
+1567,Cuentas a la vista del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,146.0
 1568,Cuentas a la vista de un millón de dólares y más del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,4.0
-1569,Cajas de ahorro del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,29020.0
+1569,Cajas de ahorro del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,28990.0
 1570,Cajas de ahorros de un millón de dólares y más del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,6115.0
-1571,Plazo fijo del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,10935.0
-1572,Plazo fijo de hasta 59 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,6184.0
-1573,Plazo fijo de 60 a 89 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1127.0
-1574,Plazo fijo de 90 a 179 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1745.0
-1575,Plazo fijo de 180 a 365 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,1443.0
-1576,Plazo fijo de 366 días o mas del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,437.0
+1571,Plazo fijo del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,10999.0
+1572,Plazo fijo de hasta 59 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,6267.0
+1573,Plazo fijo de 60 a 89 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1101.0
+1574,Plazo fijo de 90 a 179 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1745.0
+1575,Plazo fijo de 180 a 365 días del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,1446.0
+1576,Plazo fijo de 366 días o mas del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,439.0
 1577,Plazo fijo de un millón de dólares y más del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,3621.0
-1578,Plazo fijo judiciales del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-27,364.0
-1579,Inversiones a plazo constante del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1580,Inversiones con opción de cancelación anticipada del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,62.0
-1581,Inversiones con opción de renovación por plazo determinado del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1582,Inmovilizados del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,161.0
-1583,Ordenes de pago del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1584,En garantía del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,2.0
-1585,Vinculados con operaciones cambiarias del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1586,Otros depósitos (excluye vista y a plazo) del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,121.0
+1578,Plazo fijo judiciales del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2026-07-28,364.0
+1579,Inversiones a plazo constante del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1580,Inversiones con opción de cancelación anticipada del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,62.0
+1581,Inversiones con opción de renovación por plazo determinado del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1582,Inmovilizados del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,169.0
+1583,Ordenes de pago del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1584,En garantía del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,2.0
+1585,Vinculados con operaciones cambiarias del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1586,Otros depósitos (excluye vista y a plazo) del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,111.0
 1587,Otros depósitos de un millón de dólares y más (excluye vista y a plazo) del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,2003-01-02,2025-12-30,88.0
-1588,Títulos valores públicos del país del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,33.0
-1589,Títulos privados del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1590,Otros activos financieros del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1591,Aceptaciones del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1592,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del sector privado no financiero",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1593,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del sector privado no financiero",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1594,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del sector privado no financiero",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,0.0
-1595,Pasivos pendientes de imputación por operaciones con fondos de terceros del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-27,478.0
+1588,Títulos valores públicos del país del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,33.0
+1589,Títulos privados del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1590,Otros activos financieros del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1591,Aceptaciones del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1592,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras a término del sector privado no financiero",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,8.0
+1593,"Pasivos emergentes de operaciones a término, no originadas en operaciones de pase, por compras al contado a liquidar del sector privado no financiero",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1594,"Pasivos emergentes de operaciones a término, originadas en operaciones de pase, por compras a término del sector privado no financiero",Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,0.0
+1595,Pasivos pendientes de imputación por operaciones con fondos de terceros del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de USD,ME,1999-12-30,2026-07-28,449.0
 1596,Plazos fijos de unidades de valor adquisitivo mayores a 1 millón del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2025-12-30,89132.0
-1597,Inversiones con opción de cancelación anticipada de unidades de valor adquisitivo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2026-07-27,768889.0
+1597,Inversiones con opción de cancelación anticipada de unidades de valor adquisitivo del total de sectores,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2026-07-28,768208.0
 1598,Plazos fijos de unidades de valor adquisitivo mayores a 1 millón del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2025-12-30,5165.0
-1599,Inversiones con opción de cancelación anticipada de unidades de valor adquisitivo del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2026-07-27,0.0
+1599,Inversiones con opción de cancelación anticipada de unidades de valor adquisitivo del sector público no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2026-07-28,0.0
 1600,Plazos fijos de unidades de valor adquisitivo mayores a 1 millón del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2025-12-30,83962.0
-1601,Inversiones con opción de cancelación anticipada de unidades de valor adquisitivo del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2026-07-27,768887.0
+1601,Inversiones con opción de cancelación anticipada de unidades de valor adquisitivo del sector privado no financiero,Depósitos por cuenta,Saldos,D,En millones de ARS,ML,2018-01-02,2026-07-28,768206.0
 1602,Tipo de cambio para valuación de activos y pasivos de entidades financieras,Depósitos por cuenta,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,1996-01-02,2002-03-01,2.15
 1603,Tipo de cambio para valuación de activos y pasivos de entidades financieras,Préstamos por línea,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,1996-01-02,2002-03-01,2.15
 1604,Tipo de cambio para valuación de activos y pasivos del BCRA,Activos y pasivos del BCRA,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML,1996-01-02,2004-03-26,2.882
