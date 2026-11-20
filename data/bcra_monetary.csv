@@ -7597,6 +7597,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 1,2026-11-12,49073.0,Reservas internacionales,Principales Variables,Saldos,D,En millones de USD,ME
 1,2026-11-13,49600.0,Reservas internacionales,Principales Variables,Saldos,D,En millones de USD,ME
 1,2026-11-16,49474.0,Reservas internacionales,Principales Variables,Saldos,D,En millones de USD,ME
+1,2026-11-17,49741.0,Reservas internacionales,Principales Variables,Saldos,D,En millones de USD,ME
 4,2010-06-01,3.96,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 4,2010-06-02,3.96,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 4,2010-06-03,3.95,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
@@ -11603,6 +11604,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 4,2026-11-16,1573.65,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 4,2026-11-17,1576.4,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 4,2026-11-18,1582.68,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
+4,2026-11-19,1589.35,Tipo de cambio minorista (promedio vendedor),Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 5,2002-03-04,2.0083,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 5,2002-03-05,1.9917,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 5,2002-03-06,2.0508,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
@@ -17658,6 +17660,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 5,2026-11-16,1549.6732,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 5,2026-11-17,1552.2627,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 5,2026-11-18,1558.2427,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
+5,2026-11-19,1562.9893,Tipo de cambio mayorista de referencia,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 7,1999-01-04,9.0625,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 7,1999-01-05,8.8125,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 7,1999-01-06,8.8125,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
@@ -24460,6 +24463,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 7,2026-11-13,22.4375,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 7,2026-11-16,22.6875,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 7,2026-11-17,23.25,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+7,2026-11-18,22.125,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 8,2017-01-02,20.3125,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 8,2017-01-03,20.5,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 8,2017-01-04,20.0625,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
@@ -26858,6 +26862,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 8,2026-11-13,22.875,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 8,2026-11-16,23.125,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 8,2026-11-17,23.4375,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+8,2026-11-18,22.5,Tasa de interés TM20 de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 11,1999-01-05,7.79,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 11,1999-01-06,7.85,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 11,1999-01-07,7.56,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
@@ -33670,6 +33675,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 11,2026-11-13,20.98,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 11,2026-11-16,20.47,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 11,2026-11-17,20.39,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+11,2026-11-18,20.51,Tasa de interés de préstamos entre entidades financiera privadas (BAIBAR)  ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 12,1985-08-26,69.11,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 12,1985-08-27,69.11,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 12,1985-08-28,70.81,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
@@ -43325,6 +43331,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 12,2026-11-13,21.51,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 12,2026-11-16,21.94,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 12,2026-11-17,21.18,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+12,2026-11-18,21.03,Tasa de interés de depósitos a 30 días de plazo en entidades financieras ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2009-01-02,25.0,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2009-01-05,26.1,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2009-01-06,24.16,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
@@ -47670,13 +47677,14 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 13,2026-10-30,24.88,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2026-11-02,25.39,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2026-11-03,25.52,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
-13,2026-11-04,25.66,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+13,2026-11-04,25.65,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2026-11-05,27.85,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2026-11-11,29.12,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2026-11-12,26.79,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2026-11-13,26.13,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2026-11-16,25.76,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 13,2026-11-17,25.55,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+13,2026-11-18,25.52,Tasa de interés por adelantos en cuenta corriente ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 14,2010-07-01,27.84,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 14,2010-07-02,28.04,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 14,2010-07-05,28.33,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
@@ -51656,11 +51664,12 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 14,2026-11-03,62.14,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 14,2026-11-04,62.27,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 14,2026-11-05,62.46,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
-14,2026-11-11,67.69,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
-14,2026-11-12,63.1,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
-14,2026-11-13,62.77,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
-14,2026-11-16,65.54,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
-14,2026-11-17,61.94,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+14,2026-11-11,67.71,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+14,2026-11-12,63.2,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+14,2026-11-13,62.89,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+14,2026-11-16,65.7,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+14,2026-11-17,62.01,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+14,2026-11-18,62.36,Tasa de interés de préstamos personales ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 15,1996-01-02,13069.0,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML
 15,1996-01-03,12970.0,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML
 15,1996-01-04,13034.0,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML
@@ -59260,6 +59269,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 15,2026-11-12,50355637.0,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML
 15,2026-11-13,48768448.0,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML
 15,2026-11-16,48539878.0,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML
+15,2026-11-17,47231268.0,Base monetaria,Principales Variables,Saldos,D,En millones de ARS,ML
 16,1996-01-02,13069.0,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML
 16,1996-01-03,12970.0,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML
 16,1996-01-04,13034.0,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML
@@ -66859,6 +66869,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 16,2026-11-12,30148130.0,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML
 16,2026-11-13,30050501.0,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML
 16,2026-11-16,29995934.0,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML
+16,2026-11-17,29884592.0,Circulación monetaria ,Principales Variables,Saldos,D,En millones de ARS,ML
 17,1996-01-02,10942.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
 17,1996-01-03,10862.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
 17,1996-01-04,11026.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
@@ -74454,10 +74465,11 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 17,2026-11-03,26967364.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
 17,2026-11-04,27000706.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
 17,2026-11-05,27069725.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
-17,2026-11-11,27012695.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
+17,2026-11-11,27006056.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
 17,2026-11-12,27123541.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
 17,2026-11-13,27260202.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
-17,2026-11-16,27333919.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
+17,2026-11-16,27334239.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
+17,2026-11-17,27285629.0,Billetes y monedas en poder del público,Principales Variables,Saldos,D,En millones de ARS,ML
 18,1984-03-01,0.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
 18,1984-03-02,0.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
 18,1984-03-05,0.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
@@ -84987,10 +84999,11 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 18,2026-11-03,2603820.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
 18,2026-11-04,2846254.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
 18,2026-11-05,2899194.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
-18,2026-11-11,3219318.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
+18,2026-11-11,3225957.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
 18,2026-11-12,3024589.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
 18,2026-11-13,2790299.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
-18,2026-11-16,2662015.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
+18,2026-11-16,2661695.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
+18,2026-11-17,2598963.0,Efectivo en entidades financieras.,Principales Variables,Saldos,D,En millones de ARS,ML
 19,2001-06-01,577.0,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML
 19,2001-06-04,879.0,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML
 19,2001-06-05,977.0,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML
@@ -91238,6 +91251,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 19,2026-11-12,20207507.0,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML
 19,2026-11-13,18717947.0,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML
 19,2026-11-16,18543944.0,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML
+19,2026-11-17,17346676.0,Depósitos de las entidades financieras en cuenta corriente en el BCRA,Principales Variables,Saldos,D,En millones de ARS,ML
 21,1999-12-30,81110.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 21,2000-01-03,81724.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 21,2000-01-04,81958.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
@@ -97832,11 +97846,12 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 21,2026-11-02,252487924.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 21,2026-11-03,252485707.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 21,2026-11-04,252418309.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
-21,2026-11-05,252884501.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
-21,2026-11-11,250699688.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
+21,2026-11-05,252884184.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
+21,2026-11-11,250687090.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 21,2026-11-12,252736071.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
-21,2026-11-13,254548543.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
-21,2026-11-16,254905193.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
+21,2026-11-13,254557970.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
+21,2026-11-16,254625571.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
+21,2026-11-17,255821354.0,Depósitos en efectivo en las entidades financieras ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 22,1996-01-02,7050.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
 22,1996-01-03,6453.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
 22,1996-01-04,6226.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
@@ -105430,11 +105445,12 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 22,2026-11-02,35035399.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
 22,2026-11-03,34344472.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
 22,2026-11-04,34201719.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
-22,2026-11-05,33907155.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
-22,2026-11-11,35264779.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
+22,2026-11-05,33908047.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
+22,2026-11-11,35263249.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
 22,2026-11-12,37781920.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
-22,2026-11-13,37573150.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
-22,2026-11-16,39328290.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
+22,2026-11-13,37586281.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
+22,2026-11-16,38988566.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
+22,2026-11-17,37125089.0,Depósitos en efectivo en las entidades financieras en cuentas corrientes(neto de utilización FUCO),Principales Variables,Saldos,D,En millones de ARS,MEyML
 23,1996-01-02,8412.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
 23,1996-01-03,9044.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
 23,1996-01-04,9063.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
@@ -113029,10 +113045,11 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 23,2026-11-03,82772490.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
 23,2026-11-04,83168710.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
 23,2026-11-05,83920645.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
-23,2026-11-11,81011520.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
+23,2026-11-11,81015497.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
 23,2026-11-12,80966505.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
-23,2026-11-13,81284712.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
-23,2026-11-16,79979108.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
+23,2026-11-13,81279795.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
+23,2026-11-16,80022596.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
+23,2026-11-17,80040290.0,Depósitos en efectivo en las entidades financieras en cajas de ahorro,Principales Variables,Saldos,D,En millones de ARS,MEyML
 24,1996-01-02,26546.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 24,1996-01-03,26426.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 24,1996-01-04,26663.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
@@ -120629,8 +120646,9 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 24,2026-11-05,119321308.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 24,2026-11-11,117574963.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 24,2026-11-12,117682379.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
-24,2026-11-13,118552589.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
-24,2026-11-16,118834989.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
+24,2026-11-13,118555371.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
+24,2026-11-16,119002914.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
+24,2026-11-17,121405626.0,Depósitos a plazo en efectivo en las entidades financieras (incluye inversiones y excluye CEDROs) ,Principales Variables,Saldos,D,En millones de ARS,MEyML
 25,2004-02-01,53.3,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML
 25,2004-02-02,53.5,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML
 25,2004-02-03,53.7,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML
@@ -128956,6 +128974,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 25,2026-11-14,25.0,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML
 25,2026-11-15,25.3,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML
 25,2026-11-16,25.4,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML
+25,2026-11-17,25.6,Variación interanual del promedio móvil de 30 días del M2 privado.,Principales Variables,Variación,D,En porcentaje,ML
 26,1996-04-01,47165.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
 26,1996-04-02,47119.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
 26,1996-04-03,47113.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
@@ -136485,11 +136504,12 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 26,2026-11-02,151686212.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
 26,2026-11-03,152035378.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
 26,2026-11-04,151443046.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
-26,2026-11-05,151204099.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
-26,2026-11-11,150168526.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
+26,2026-11-05,151203509.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
+26,2026-11-11,150275042.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
 26,2026-11-12,151328358.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
-26,2026-11-13,150758345.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
-26,2026-11-16,150781238.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
+26,2026-11-13,150749117.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
+26,2026-11-16,150782768.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
+26,2026-11-17,151444273.0,Préstamos de las entidades financieras al sector privado,Principales Variables,Saldos,D,En millones de ARS,MEyML
 27,1943-03-31,1.6,Inflación mensual.,Principales Variables,Variación,M,En porcentaje,ML
 27,1943-04-30,0.7,Inflación mensual.,Principales Variables,Variación,M,En porcentaje,ML
 27,1943-05-31,-0.9,Inflación mensual.,Principales Variables,Variación,M,En porcentaje,ML
@@ -157280,6 +157300,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 35,2026-11-13,24.88,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
 35,2026-11-16,25.19,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
 35,2026-11-17,25.88,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
+35,2026-11-18,24.5,Tasa de interés BADLAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
 40,2020-07-01,1.0,Índice para Contratos de Locación (base 30.6.20=1),Principales Variables,Índice,D,Índice base 30.6.20=1,ML
 40,2020-07-02,1.0,Índice para Contratos de Locación (base 30.6.20=1),Principales Variables,Índice,D,Índice base 30.6.20=1,ML
 40,2020-07-03,1.0,Índice para Contratos de Locación (base 30.6.20=1),Principales Variables,Índice,D,Índice base 30.6.20=1,ML
@@ -172657,6 +172678,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 43,2026-11-17,27912.3064,Tasa de interés Comunicado P 14.290 (Uso de justicia),Principales Variables,Tasa de interés,D,En porcentaje,ML
 43,2026-11-18,27926.7641,Tasa de interés Comunicado P 14.290 (Uso de justicia),Principales Variables,Tasa de interés,D,En porcentaje,ML
 43,2026-11-19,27940.5848,Tasa de interés Comunicado P 14.290 (Uso de justicia),Principales Variables,Tasa de interés,D,En porcentaje,ML
+43,2026-11-20,27955.1492,Tasa de interés Comunicado P 14.290 (Uso de justicia),Principales Variables,Tasa de interés,D,En porcentaje,ML
 44,2024-10-01,44.1875,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 44,2024-10-02,43.6875,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 44,2024-10-03,43.6875,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
@@ -173169,6 +173191,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 44,2026-11-13,24.125,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 44,2026-11-16,24.125,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 44,2026-11-17,24.0,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
+44,2026-11-18,23.4375,Tasa de interes TAMAR de bancos privados ,Principales Variables,Tasa de interés,D,En porcentaje nominal anual,ML
 45,2024-10-01,54.27,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
 45,2024-10-02,53.53,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
 45,2024-10-03,53.53,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
@@ -173681,6 +173704,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 45,2026-11-13,26.96,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
 45,2026-11-16,26.96,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
 45,2026-11-17,26.81,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
+45,2026-11-18,26.11,Tasa de interés TAMAR de bancos privados,Principales Variables,Tasa de interés,D,En porcentaje efectivo anual,ML
 1187,2025-04-14,1000.0,Régimen de bandas cambiarias. Límite inferior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 1187,2025-04-15,999.67,Régimen de bandas cambiarias. Límite inferior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
 1187,2025-04-16,999.33,Régimen de bandas cambiarias. Límite inferior,Principales Variables,Tipo de cambio,D,Pesos argentinos por dólar estadounidense,ML
@@ -186728,6 +186752,7 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 1197,2026-11-17,173145.1041,"Tasa de Intereses Moratorios (TIM)  CCC, art. 768(c)",Principales Variables,Tasa de interés,D,En porcentaje,ML
 1197,2026-11-18,173284.9386,"Tasa de Intereses Moratorios (TIM)  CCC, art. 768(c)",Principales Variables,Tasa de interés,D,En porcentaje,ML
 1197,2026-11-19,173424.886,"Tasa de Intereses Moratorios (TIM)  CCC, art. 768(c)",Principales Variables,Tasa de interés,D,En porcentaje,ML
+1197,2026-11-20,173564.9464,"Tasa de Intereses Moratorios (TIM)  CCC, art. 768(c)",Principales Variables,Tasa de interés,D,En porcentaje,ML
 1198,1993-06-03,0.0266,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML
 1198,1993-06-04,0.0509,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML
 1198,1993-06-05,0.0758,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML
@@ -198951,3 +198976,4 @@ id_variable,fecha,valor,descripcion,categoria,tipo_serie,periodicidad,unidad_exp
 1198,2026-11-17,98569.9485,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML
 1198,2026-11-18,98628.6414,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML
 1198,2026-11-19,98685.4279,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML
+1198,2026-11-20,98741.9232,"Tasa pasiva Ley 27.802, art. 55(a)",Principales Variables,Tasa de interés,D,En porcentaje,ML
